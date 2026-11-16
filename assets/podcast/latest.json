@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "short": {
     "src": "/assets/podcast/short.mp3",
-    "seconds": 107
+    "seconds": 113
   },
   "full": {
     "src": "/assets/podcast/full.mp3",
-    "seconds": 425
+    "seconds": 487
   },
-  "version": "54b3d02389ac1ab5",
+  "version": "6ead2f27d040d442",
   "artwork_status": "unavailable"
 }
