@@ -7,7 +7,7 @@ Location: Chennevières-sur-Marne, Île-de-France, France.
 Background: 17 years at Son-Vidéo.com (France's #1 HiFi/home cinema e-retailer) — purchasing, sales, commercial strategy, marketing/communications, partnerships; growth from €10M to €62M. Since 2024: CEO of Cobra (Oct. 2024), publisher & editorial director of Haute Fidélité (Jan. 2025, 30+ year reference magazine relaunched), founder of HL Consulting (Jul. 2024). Marketing lecturer at Creapole-ESDI. Passionate about music, cinema, and Japanese culture (Japan Expo 2004–2009).
 LinkedIn: https://www.linkedin.com/in/hugo-lahutte — X: https://x.com/hugolh_ai
 
-Document generated automatically from the site content (scripts/build_llms_full.py). Last updated: 2026-11-15
+Document generated automatically from the site content (scripts/build_llms_full.py). Last updated: 2026-11-16
 
 
 ================================================================
@@ -25,31 +25,31 @@ Selected by Hugo Lahutte ↗One Telegram subscription.Follow all three formats t
 Join on Telegram ↗01 / Daily news on Telegram
 Le Radar iA.
 All updates and sources →Models, agents, research and practical uses: six recent items, with dates and source links.
-Latest selection: 2026-11-15
-- 0115.11.2026
+Latest selection: 2026-11-16
+- 0116.11.2026
+Alibaba lance Qwen4-Max
+Alibaba dévoile Qwen4-Max, un modèle à architecture MoE avec vision native et une fenêtre de contexte d'un million de tokens. Il promet de meilleures performances que la génération précédente tout en réduisant fortement les coûts (1,5 $/M en entrée, 4,5 $/M en sortie), avec des versions plus petites en poids ouverts à venir.
+Source : @Alibaba_Qwen · modeles · produit · open-source
+- 0216.11.2026
+OpenAI met GPT-6 au service de la physique théorique
+OpenAI lance un blog scientifique dont le premier billet décrit comment le physicien Nathaniel Craig a utilisé GPT-6 Astra pour développer une définition candidate du Modèle Standard sur réseau. Une illustration de l'usage des modèles pour la recherche de pointe.
+Source : @OpenAI · openai · recherche · modeles
+- 0316.11.2026
+Étude de recherche Apple Health x OpenEvidence
+Apple et OpenEvidence annoncent une collaboration de recherche autour de l'IA appliquée à la santé, combinant les données d'Apple Health à l'expertise médicale d'OpenEvidence.
+Source : @saranormous · produit · recherche
+- 0415.11.2026
 Perplexity : forte croissance de l'usage de son agent Teammate
 Aravind Srinivas affirme que l'agent Teammate de Perplexity progresse de plus de 50 % par semaine, avec un nombre d'employés gagnant une journée ou une semaine de travail supplémentaire qui a triplé. Il avance une valeur de travail de 80 à 180 M$/an pour environ 10 M$ de coûts en tokens, chiffres à prendre avec recul.
 Source : @AravSrinivas · produit · agents · automatisation
-- 0214.11.2026
+- 0514.11.2026
 Grok Bot : des coéquipiers IA autonomes qui travaillent en arrière-plan
 Y Combinator met en avant Grok Bot, un outil permettant de créer des « coéquipiers IA » dotés de leur propre identité et de leurs accès, qui travaillent en continu. Une équipe marketing aurait même confié un budget pub à un bot ; l'équipe raconte être passée du code à sept semaines de lancement.
 Source : @ycombinator · xai · agents · produit · automatisation
-- 0314.11.2026
+- 0614.11.2026
 Le monde des modèles ouverts fragilisé après le départ de Jensen Huang
 Nathan Lambert estime que l'écosystème open source de l'IA, largement soutenu par Nvidia, fait face à deux risques majeurs après le départ de Jensen Huang : un recul politique de ses alliés à Washington et une pression accrue pour trouver rapidement des produits rentables.
 Source : @natolambert · open-source · hardware · politique-ia
-- 0414.11.2026
-HubSpot se « refonde » autour de l'IA et d'une version headless via MCP
-Dharmesh Shah détaille le « refounding » de HubSpot avec le retour de Brian Halligan au poste de CEO. L'entreprise mise sur une version headless de son CRM, consommable par des agents IA comme Claude ou ChatGPT via MCP, et sur une simplification de la tarification et du produit.
-Source : @dharmesh · produit · agents · marketing · saas
-- 0514.11.2026
-SatBench : 63 % des benchmarks IA sont déjà saturés
-Ethan Mollick a construit SatBench, qui mesure la vitesse à laquelle les grands benchmarks IA sont « battus ». Sur 173 tests cités par les labos depuis 2023, 63 % seraient déjà saturés, et le phénomène s'accélère chaque année, signe que les mesures peinent à suivre les progrès des modèles.
-Source : @emollick · recherche · modeles
-- 0614.11.2026
-ParseBench-2 : mesurer l'analyse de documents selon la gravité des erreurs
-LlamaIndex publie ParseBench-2, un benchmark d'extraction de documents qui pondère les erreurs selon leur gravité (une inversion de signe en finance pénalise beaucoup plus qu'une différence de formatage), avec une taxonomie de plus de 330 types d'erreurs, notamment sur les tableaux complexes.
-Source : @jerryjliu0 · recherche · produit
 Follow Le Radar iA on Telegram ↗
 A selection from the daily watch. Follow the source links for context.
 02 / AI news in audio
