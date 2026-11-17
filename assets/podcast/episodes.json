@@ -8,13 +8,17 @@
         "src": "/assets/podcast/archive/2026-11-17/short.mp3",
         "seconds": 122,
         "bytes": 2435178,
-        "sha256": "6c974bdf4d3ceb4419e3773059dba01aa19f73ac3900f42c1101548b0c7e9362"
+        "sha256": "6c974bdf4d3ceb4419e3773059dba01aa19f73ac3900f42c1101548b0c7e9362",
+        "image": "/assets/podcast/archive/2026-11-17/short-cover-v2.jpg",
+        "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
       },
       "full": {
         "src": "/assets/podcast/archive/2026-11-17/full.mp3",
         "seconds": 435,
         "bytes": 8696729,
-        "sha256": "a48f9828c0e5a08988469e8e1a2d0e334e11f0770ee6fdddd82078fc367955d4"
+        "sha256": "a48f9828c0e5a08988469e8e1a2d0e334e11f0770ee6fdddd82078fc367955d4",
+        "image": "/assets/podcast/archive/2026-11-17/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
       }
     },
     {
@@ -24,13 +28,17 @@
         "src": "/assets/podcast/archive/2026-11-16/short.mp3",
         "seconds": 113,
         "bytes": 2259635,
-        "sha256": "3698aee74a687eb4065733965439be8c8e3110c130ed28fa14a8bc42f6d8b5c3"
+        "sha256": "3698aee74a687eb4065733965439be8c8e3110c130ed28fa14a8bc42f6d8b5c3",
+        "image": "/assets/podcast/archive/2026-11-16/short-cover-v2.jpg",
+        "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
       },
       "full": {
         "src": "/assets/podcast/archive/2026-11-16/full.mp3",
         "seconds": 487,
         "bytes": 9735358,
-        "sha256": "70593a35a8e6b3bc267ea5d3768b7d8fa7a3024e14e74a71c0c2a0b6987d2018"
+        "sha256": "70593a35a8e6b3bc267ea5d3768b7d8fa7a3024e14e74a71c0c2a0b6987d2018",
+        "image": "/assets/podcast/archive/2026-11-16/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
       }
     },
     {
@@ -40,13 +48,17 @@
         "src": "/assets/podcast/archive/2026-11-15/short.mp3",
         "seconds": 107,
         "bytes": 2141562,
-        "sha256": "bdcdea002ef3a09210b7d25dd3bf37e9564ff01de43bcd6c7c67defc996f2c68"
+        "sha256": "bdcdea002ef3a09210b7d25dd3bf37e9564ff01de43bcd6c7c67defc996f2c68",
+        "image": "/assets/podcast/archive/2026-11-15/short-cover-v2.jpg",
+        "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
       },
       "full": {
         "src": "/assets/podcast/archive/2026-11-15/full.mp3",
         "seconds": 425,
         "bytes": 8494019,
-        "sha256": "5ced8d0632a50ad84f7a1e07e97ef7be7d870c347eac4641222e0a9fb2e8692d"
+        "sha256": "5ced8d0632a50ad84f7a1e07e97ef7be7d870c347eac4641222e0a9fb2e8692d",
+        "image": "/assets/podcast/archive/2026-11-15/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
       }
     },
     {
@@ -56,13 +68,17 @@
         "src": "/assets/podcast/archive/2026-11-14/short.mp3",
         "seconds": 119,
         "bytes": 2381888,
-        "sha256": "08d666aff13552a98b2117d5e55656dfc0bef971b609ee4fd47ddb8c0b36fe07"
+        "sha256": "08d666aff13552a98b2117d5e55656dfc0bef971b609ee4fd47ddb8c0b36fe07",
+        "image": "/assets/podcast/archive/2026-11-14/short-cover-v2.jpg",
+        "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
       },
       "full": {
         "src": "/assets/podcast/archive/2026-11-14/full.mp3",
         "seconds": 396,
         "bytes": 7924550,
-        "sha256": "e5807c8651a12d4bfe7ac863766ece9d929d9ff75e4c276d2e296f3cf41a9a45"
+        "sha256": "e5807c8651a12d4bfe7ac863766ece9d929d9ff75e4c276d2e296f3cf41a9a45",
+        "image": "/assets/podcast/archive/2026-11-14/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
       }
     },
     {
@@ -72,13 +88,17 @@
         "src": "/assets/podcast/archive/2026-11-12/short.mp3",
         "seconds": 109,
         "bytes": 2179178,
-        "sha256": "6175be81893d8f02664809cd90f925f5e527ed0cba506b95fc72229dd2cc4d34"
+        "sha256": "6175be81893d8f02664809cd90f925f5e527ed0cba506b95fc72229dd2cc4d34",
+        "image": "/assets/podcast/archive/2026-11-12/short-cover-v2.jpg",
+        "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
       },
       "full": {
         "src": "/assets/podcast/archive/2026-11-12/full.mp3",
         "seconds": 415,
         "bytes": 8292354,
-        "sha256": "c936f50763c4191464bac7b2be96ed3ab20439082415e250681540049d438de7"
+        "sha256": "c936f50763c4191464bac7b2be96ed3ab20439082415e250681540049d438de7",
+        "image": "/assets/podcast/archive/2026-11-12/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
       }
     },
     {
@@ -88,13 +108,17 @@
         "src": "/assets/podcast/archive/2026-11-11/short.mp3",
         "seconds": 109,
         "bytes": 2176044,
-        "sha256": "5ebeed4b38b595780a5f15e5f152f19b4a7bb7b85163637a05492b8270526d17"
+        "sha256": "5ebeed4b38b595780a5f15e5f152f19b4a7bb7b85163637a05492b8270526d17",
+        "image": "/assets/podcast/archive/2026-11-11/short-cover-v2.jpg",
+        "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
       },
       "full": {
         "src": "/assets/podcast/archive/2026-11-11/full.mp3",
         "seconds": 549,
         "bytes": 10990803,
-        "sha256": "e052e6d0b3774c16313f988bfe700eecdf41de250bc4a26a0248eb4a808021d5"
+        "sha256": "e052e6d0b3774c16313f988bfe700eecdf41de250bc4a26a0248eb4a808021d5",
+        "image": "/assets/podcast/archive/2026-11-11/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
       }
     },
     {
