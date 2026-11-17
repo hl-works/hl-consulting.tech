@@ -122,7 +122,8 @@ def build(root=ROOT, archive=False, render_covers=False):
     platform_manifest = folder / 'platform-episodes.json'
     platform_episodes = read_json(platform_manifest)['episodes'] if platform_manifest.exists() else []
     episodes = manifest['episodes'] + platform_episodes
-    if not episodes or len({e['date'] for e in episodes}) != len(episodes):
+    # Un épisode = une date, sauf épisodes spéciaux (« La Semaine ») identifiés par `id`.
+    if not episodes or len({e.get('id', e['date']) for e in episodes}) != len(episodes):
         raise ValueError('Empty archive or duplicate episode date')
     if render_covers:
         from render_podcast_covers import render
@@ -155,10 +156,13 @@ def build(root=ROOT, archive=False, render_covers=False):
     image = tag(channel, 'image')
     for key, value in [('url', show['image']), ('title', show['title']), ('link', show['link'])]:
         tag(image, key, value)
-    for episode in sorted(episodes, key=lambda e: e['date'], reverse=True):
+    for episode in sorted(episodes, key=lambda e: (e['date'], 'id' in e), reverse=True):
         day = date.fromisoformat(episode['date'])
         track = episode['full']
-        expected = f'/assets/podcast/archive/{day.isoformat()}/full.mp3'
+        slot = episode.get('id', day.isoformat())
+        if not re.fullmatch(r'\d{4}-\d{2}-\d{2}|semaine-\d{4}-W\d{2}', slot):
+            raise ValueError(f'Invalid episode id: {slot}')
+        expected = f'/assets/podcast/archive/{slot}/full.mp3'
         if track['src'] != expected:
             raise ValueError('Only permanent dated full audio URLs are allowed')
         info = audio_info(root / expected.lstrip('/'), track['seconds'])
@@ -189,7 +193,7 @@ def build(root=ROOT, archive=False, render_covers=False):
         tag(item, f'{{{ITUNES}}}episodeType', 'full')
         if track.get('image'):
             expected_image = track['image']
-            allowed_images = [f'/assets/podcast/archive/{day.isoformat()}/full-cover-v{v}.jpg' for v in (1, 2)]
+            allowed_images = [f'/assets/podcast/archive/{slot}/full-cover-v{v}.jpg' for v in (1, 2)]
             picture = root / expected_image.lstrip('/')
             if (expected_image not in allowed_images or not picture.is_file()
                     or hashlib.sha256(picture.read_bytes()).hexdigest() != track.get('image_sha256')):

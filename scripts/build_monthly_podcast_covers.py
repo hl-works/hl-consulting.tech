@@ -8,7 +8,7 @@ mais le pied affiche le mois au lieu de la date et de la durée, déjà données
 par les plateformes.
 
 Composition Pillow, sans navigateur : robuste dans les jobs automatiques.
-Sortie : assets/podcast/art/cover-AAAA-MM-{short,full}-v1.jpg et show-cover-AAAA-MM.jpg
+Sortie : assets/podcast/art/cover-AAAA-MM-{short,full,week}-v1.jpg et show-cover-AAAA-MM.jpg
 (image générale de l'émission, tenue du mois), 3000 × 3000.
 Ne réécrit jamais une pochette existante.
 
@@ -23,8 +23,8 @@ ROOT = Path(__file__).resolve().parents[1]
 ART = ROOT / 'assets/podcast/art'
 SIZE = 3000
 IVORY, INK = (255, 252, 248), (12, 12, 12)
-ACCENT = {'short': (198, 18, 31), 'full': (57, 53, 158)}
-LABEL = {'short': 'LE FLASH', 'full': 'LE DÉBRIEF'}
+ACCENT = {'short': (198, 18, 31), 'full': (57, 53, 158), 'week': (176, 118, 0)}
+LABEL = {'short': 'LE FLASH', 'full': 'LE DÉBRIEF', 'week': 'LA SEMAINE'}
 MONTHS = ['JANVIER', 'FÉVRIER', 'MARS', 'AVRIL', 'MAI', 'JUIN', 'JUILLET', 'AOÛT',
           'SEPTEMBRE', 'OCTOBRE', 'NOVEMBRE', 'DÉCEMBRE']
 FONTS = ['/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf',
@@ -119,7 +119,7 @@ def build(year, month):
     if not show.exists():
         compose_show(month).save(show, 'JPEG', quality=92)
         made.append(show)
-    for kind in ('short', 'full'):
+    for kind in ('short', 'full', 'week'):
         dest = ART / f'cover-{year}-{month:02d}-{kind}-v1.jpg'
         if dest.exists():
             continue
