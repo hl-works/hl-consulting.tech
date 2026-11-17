@@ -8,7 +8,8 @@ mais le pied affiche le mois au lieu de la date et de la durée, déjà données
 par les plateformes.
 
 Composition Pillow, sans navigateur : robuste dans les jobs automatiques.
-Sortie : assets/podcast/art/cover-AAAA-MM-{short,full}-v1.jpg (3000 × 3000).
+Sortie : assets/podcast/art/cover-AAAA-MM-{short,full}-v1.jpg et show-cover-AAAA-MM.jpg
+(image générale de l'émission, tenue du mois), 3000 × 3000.
 Ne réécrit jamais une pochette existante.
 
     python3 scripts/build_monthly_podcast_covers.py --month 2026-11
@@ -88,8 +89,36 @@ def compose(year, month, kind):
     return img
 
 
+def compose_show(month):
+    """Image générale de l'émission, même style que show-cover-v1, tenue du mois."""
+    violet = ACCENT['full']
+    portrait = Image.open(ART / f'iastro-{month:02d}-v1.png').convert('RGB')
+    img = Image.new('RGB', (SIZE, SIZE), IVORY)
+    d = ImageDraw.Draw(img)
+    head, foot = int(SIZE * .18), int(SIZE * .10)
+    margin = int(SIZE * .055)
+    title = font(FONTS, 330)
+    y = head // 2 + 30
+    d.text((margin, y), 'LE PODCAST ', font=title, fill=INK, anchor='lm')
+    d.text((margin + d.textlength('LE PODCAST ', font=title), y), 'IA', font=title, fill=violet, anchor='lm')
+    d.line([margin, head, SIZE - margin, head], fill=INK, width=6)
+    area = SIZE - head - foot - 40
+    img.paste(portrait.resize((area, area), Image.LANCZOS), ((SIZE - area) // 2, head + 20))
+    top = SIZE - foot
+    d.rectangle([0, top, SIZE, SIZE], fill=IVORY)
+    d.line([margin, top, SIZE - margin, top], fill=INK, width=6)
+    small = font(FONTS, 130)
+    d.text((margin, top + foot // 2), 'Hugo LaHutte', font=small, fill=INK, anchor='lm')
+    d.text((SIZE - margin, top + foot // 2), 'iAstro', font=small, fill=violet, anchor='rm')
+    return img
+
+
 def build(year, month):
     made = []
+    show = ART / f'show-cover-{year}-{month:02d}.jpg'
+    if not show.exists():
+        compose_show(month).save(show, 'JPEG', quality=92)
+        made.append(show)
     for kind in ('short', 'full'):
         dest = ART / f'cover-{year}-{month:02d}-{kind}-v1.jpg'
         if dest.exists():

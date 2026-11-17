@@ -144,6 +144,10 @@ def build(root=ROOT, archive=False, render_covers=False):
     tag(channel, f'{{{ITUNES}}}explicit', 'false')
     tag(channel, f'{{{ITUNES}}}type', 'episodic')
     tag(channel, f'{{{ITUNES}}}category', text=show['category'])
+    # Image générale : tenue d'iAstro du mois si elle existe (demande de Hugo, 17/11/2026).
+    month = datetime.now(ZoneInfo('Europe/Paris')).strftime('%Y-%m')
+    if (folder / 'art' / f'show-cover-{month}.jpg').is_file():
+        show = dict(show, image=f'{BASE}/assets/podcast/art/show-cover-{month}.jpg')
     tag(channel, f'{{{ITUNES}}}image', href=show['image'])
     owner = tag(channel, f'{{{ITUNES}}}owner')
     tag(owner, f'{{{ITUNES}}}name', show['author'])

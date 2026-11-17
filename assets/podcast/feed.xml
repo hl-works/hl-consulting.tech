@@ -10,13 +10,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology" />
-    <itunes:image href="https://hl-consulting.tech/assets/podcast/show-cover-v1.jpg" />
+    <itunes:image href="https://hl-consulting.tech/assets/podcast/art/show-cover-2026-11.jpg" />
     <itunes:owner>
       <itunes:name>Hugo LaHutte</itunes:name>
       <itunes:email>hugo@hl-consulting.tech</itunes:email>
     </itunes:owner>
     <image>
-      <url>https://hl-consulting.tech/assets/podcast/show-cover-v1.jpg</url>
+      <url>https://hl-consulting.tech/assets/podcast/art/show-cover-2026-11.jpg</url>
       <title>Le Podcast IA</title>
       <link>https://hl-consulting.tech/knowledge-hub/immersion-ia/</link>
     </image>
@@ -69,6 +69,18 @@
       <itunes:image href="https://hl-consulting.tech/assets/podcast/archive/2026-11-14/full-cover-v2.jpg" />
     </item>
     <item>
+      <title>Le Débrief du 13/11/2026</title>
+      <link>https://hl-consulting.tech/knowledge-hub/immersion-ia/</link>
+      <description>Le Débrief de la veille IA du 13/11/2026. Les annonces, leur contexte et leurs implications pratiques. Retrouve les formats et la veille sur https://hl-consulting.tech/knowledge-hub/immersion-ia/ Émission de Hugo LaHutte, avec une voix de synthèse.</description>
+      <guid isPermaLink="false">urn:uuid:b85480d3-42d2-5015-9761-714b46726158</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://hl-consulting.tech/assets/podcast/archive/2026-11-13/full.mp3" length="10756223" type="audio/mpeg" />
+      <itunes:duration>538</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://hl-consulting.tech/assets/podcast/archive/2026-11-13/full-cover-v2.jpg" />
+    </item>
+    <item>
       <title>Le Débrief du 12/11/2026</title>
       <link>https://hl-consulting.tech/knowledge-hub/immersion-ia/</link>
       <description>Le Débrief de la veille IA du 12/11/2026. Les annonces, leur contexte et leurs implications pratiques. Retrouve les formats et la veille sur https://hl-consulting.tech/knowledge-hub/immersion-ia/ Émission de Hugo LaHutte, avec une voix de synthèse.</description>
@@ -91,6 +103,18 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:image href="https://hl-consulting.tech/assets/podcast/archive/2026-11-11/full-cover-v2.jpg" />
+    </item>
+    <item>
+      <title>Le Débrief du 09/11/2026</title>
+      <link>https://hl-consulting.tech/knowledge-hub/immersion-ia/</link>
+      <description>Le Débrief de la veille IA du 09/11/2026. Les annonces, leur contexte et leurs implications pratiques. Retrouve les formats et la veille sur https://hl-consulting.tech/knowledge-hub/immersion-ia/ Émission de Hugo LaHutte, avec une voix de synthèse.</description>
+      <guid isPermaLink="false">urn:uuid:7001b34c-5c15-5870-a5b7-5f6f5199acc1</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0100</pubDate>
+      <enclosure url="https://hl-consulting.tech/assets/podcast/archive/2026-11-09/full.mp3" length="7662299" type="audio/mpeg" />
+      <itunes:duration>375</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://hl-consulting.tech/assets/podcast/archive/2026-11-09/full-cover-v2.jpg" />
     </item>
     <item>
       <title>Le Débrief du 08/11/2026</title>
