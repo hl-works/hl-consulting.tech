@@ -7,7 +7,7 @@ Location: Chennevières-sur-Marne, Île-de-France, France.
 Background: 17 years at Son-Vidéo.com (France's #1 HiFi/home cinema e-retailer) — purchasing, sales, commercial strategy, marketing/communications, partnerships; growth from €10M to €62M. Since 2024: CEO of Cobra (Oct. 2024), publisher & editorial director of Haute Fidélité (Jan. 2025, 30+ year reference magazine relaunched), founder of HL Consulting (Jul. 2024). Marketing lecturer at Creapole-ESDI. Passionate about music, cinema, and Japanese culture (Japan Expo 2004–2009).
 LinkedIn: https://www.linkedin.com/in/hugo-lahutte — X: https://x.com/hugolh_ai
 
-Document generated automatically from the site content (scripts/build_llms_full.py). Last updated: 2026-11-16
+Document generated automatically from the site content (scripts/build_llms_full.py). Last updated: 2026-11-17
 
 
 ================================================================
@@ -25,31 +25,31 @@ Selected by Hugo Lahutte ↗One Telegram subscription.Follow all three formats t
 Join on Telegram ↗01 / Daily news on Telegram
 Le Radar iA.
 All updates and sources →Models, agents, research and practical uses: six recent items, with dates and source links.
-Latest selection: 2026-11-16
-- 0116.11.2026
+Latest selection: 2026-11-17
+- 0117.11.2026
+Alibaba lance Qwen4-Max
+Alibaba rend son nouveau modèle Qwen4-Max accessible, désormais disponible sur plusieurs plateformes tierces (You.com, Novita, et la passerelle IA de Vercel) dès le premier jour.
+Source : @Alibaba_Qwen · mistral · modeles · open-source
+- 0217.11.2026
+Tencent déploie Hy4 Flash, plus rapide et moins cher
+Le modèle Hy4 Flash de Tencent Hunyuan arrive sur OpenClaw. Selon Tencent, il égale la qualité de Hy4 sur les tâches courantes tout en réduisant le temps par tâche de 70 % pour environ 1/15e du coût.
+Source : @openclaw · modeles
+- 0317.11.2026
+Guerre des prix entre labos d'IA
+Selon l'économiste Alex Imas (Google DeepMind), une concurrence tarifaire intense s'est installée ces derniers mois entre labos de pointe : les revenus peuvent stagner même si l'usage de tokens explose, l'IA agentique en consommant beaucoup plus.
+Source : @a16z · modeles · politique-ia
+- 0416.11.2026
 Alibaba lance Qwen4-Max
 Alibaba dévoile Qwen4-Max, un modèle à architecture MoE avec vision native et une fenêtre de contexte d'un million de tokens. Il promet de meilleures performances que la génération précédente tout en réduisant fortement les coûts (1,5 $/M en entrée, 4,5 $/M en sortie), avec des versions plus petites en poids ouverts à venir.
 Source : @Alibaba_Qwen · modeles · produit · open-source
-- 0216.11.2026
+- 0516.11.2026
 OpenAI met GPT-6 au service de la physique théorique
 OpenAI lance un blog scientifique dont le premier billet décrit comment le physicien Nathaniel Craig a utilisé GPT-6 Astra pour développer une définition candidate du Modèle Standard sur réseau. Une illustration de l'usage des modèles pour la recherche de pointe.
 Source : @OpenAI · openai · recherche · modeles
-- 0316.11.2026
-Étude de recherche Apple Health x OpenEvidence
-Apple et OpenEvidence annoncent une collaboration de recherche autour de l'IA appliquée à la santé, combinant les données d'Apple Health à l'expertise médicale d'OpenEvidence.
-Source : @saranormous · produit · recherche
-- 0415.11.2026
-Perplexity : forte croissance de l'usage de son agent Teammate
-Aravind Srinivas affirme que l'agent Teammate de Perplexity progresse de plus de 50 % par semaine, avec un nombre d'employés gagnant une journée ou une semaine de travail supplémentaire qui a triplé. Il avance une valeur de travail de 80 à 180 M$/an pour environ 10 M$ de coûts en tokens, chiffres à prendre avec recul.
-Source : @AravSrinivas · produit · agents · automatisation
-- 0514.11.2026
-Grok Bot : des coéquipiers IA autonomes qui travaillent en arrière-plan
-Y Combinator met en avant Grok Bot, un outil permettant de créer des « coéquipiers IA » dotés de leur propre identité et de leurs accès, qui travaillent en continu. Une équipe marketing aurait même confié un budget pub à un bot ; l'équipe raconte être passée du code à sept semaines de lancement.
-Source : @ycombinator · xai · agents · produit · automatisation
-- 0614.11.2026
-Le monde des modèles ouverts fragilisé après le départ de Jensen Huang
-Nathan Lambert estime que l'écosystème open source de l'IA, largement soutenu par Nvidia, fait face à deux risques majeurs après le départ de Jensen Huang : un recul politique de ses alliés à Washington et une pression accrue pour trouver rapidement des produits rentables.
-Source : @natolambert · open-source · hardware · politique-ia
+- 0616.11.2026
+Perplexity lance une API de veille automatisée
+Perplexity présente Monitor, une API permettant de suivre un sujet, un événement ou les changements de pages web et de recevoir des alertes via webhooks, au tarif annoncé d'un dollar pour 1000 exécutions.
+Source : @AravSrinivas · produit · automatisation · agents
 Follow Le Radar iA on Telegram ↗
 A selection from the daily watch. Follow the source links for context.
 02 / AI news in audio
