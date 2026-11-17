@@ -129,6 +129,27 @@ def build(root=ROOT, archive=False, render_covers=False):
         from render_podcast_covers import render
         render(root, episodes)
         write_json(folder / 'episodes.json', manifest)
+    # Image générale : tenue d'iAstro du mois si elle existe (demande de Hugo, 17/11/2026).
+    month = datetime.now(ZoneInfo('Europe/Paris')).strftime('%Y-%m')
+    if (folder / 'art' / f'show-cover-{month}.jpg').is_file():
+        show = dict(show, image=f'{BASE}/assets/podcast/art/show-cover-{month}.jpg')
+    return write_feed(root, show, episodes, FEED_URL, folder / 'feed.xml')
+
+
+def build_semaine(root=ROOT):
+    """3e émission « La Semaine iA » (assets/podcast/semaine/), flux séparé."""
+    folder = root / 'assets/podcast/semaine'
+    show = read_json(folder / 'show.json')
+    if not (folder / 'cover.jpg').is_file():
+        raise ValueError('Weekly show artwork is missing')
+    manifest = folder / 'episodes.json'
+    episodes = read_json(manifest)['episodes'] if manifest.exists() else []
+    if len({e['id'] for e in episodes}) != len(episodes):
+        raise ValueError('Duplicate weekly episode')
+    return write_feed(root, show, episodes, BASE + '/assets/podcast/semaine/feed.xml', folder / 'feed.xml')
+
+
+def write_feed(root, show, episodes, feed_url, output):
     rss = ET.Element('rss', {'version': '2.0'})
     channel = ET.SubElement(rss, 'channel')
 
@@ -140,15 +161,11 @@ def build(root=ROOT, archive=False, render_covers=False):
 
     for key in ('title', 'link', 'description', 'language'):
         tag(channel, key, show[key])
-    tag(channel, f'{{{ATOM}}}link', href=FEED_URL, rel='self', type='application/rss+xml')
+    tag(channel, f'{{{ATOM}}}link', href=feed_url, rel='self', type='application/rss+xml')
     tag(channel, f'{{{ITUNES}}}author', show['author'])
     tag(channel, f'{{{ITUNES}}}explicit', 'false')
     tag(channel, f'{{{ITUNES}}}type', 'episodic')
     tag(channel, f'{{{ITUNES}}}category', text=show['category'])
-    # Image générale : tenue d'iAstro du mois si elle existe (demande de Hugo, 17/11/2026).
-    month = datetime.now(ZoneInfo('Europe/Paris')).strftime('%Y-%m')
-    if (folder / 'art' / f'show-cover-{month}.jpg').is_file():
-        show = dict(show, image=f'{BASE}/assets/podcast/art/show-cover-{month}.jpg')
     tag(channel, f'{{{ITUNES}}}image', href=show['image'])
     owner = tag(channel, f'{{{ITUNES}}}owner')
     tag(owner, f'{{{ITUNES}}}name', show['author'])
@@ -206,7 +223,6 @@ def build(root=ROOT, archive=False, render_covers=False):
             tag(item, f'{{{ITUNES}}}image', href=BASE + expected_image)
     ET.indent(rss, space='  ')
     xml = ET.tostring(rss, encoding='utf-8', xml_declaration=True) + b'\n'
-    output = folder / 'feed.xml'
     if not output.exists() or output.read_bytes() != xml:
         output.write_bytes(xml)
     return len(episodes)
@@ -217,5 +233,9 @@ if __name__ == '__main__':
     parser.add_argument('--root', type=Path, default=ROOT)
     parser.add_argument('--archive-latest', action='store_true')
     parser.add_argument('--render-covers', action='store_true')
+    parser.add_argument('--semaine', action='store_true', help='3e émission « La Semaine iA »')
     args = parser.parse_args()
-    print(f'{build(args.root, args.archive_latest, args.render_covers)} épisodes complets dans assets/podcast/feed.xml')
+    if args.semaine:
+        print(f'{build_semaine(args.root)} épisode(s) dans assets/podcast/semaine/feed.xml')
+    else:
+        print(f'{build(args.root, args.archive_latest, args.render_covers)} épisodes complets dans assets/podcast/feed.xml')

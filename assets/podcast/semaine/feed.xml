@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>La Semaine iA</title>
+    <link>https://hl-consulting.tech/knowledge-hub/immersion-ia/</link>
+    <description>Toute l’actualité de l’intelligence artificielle de la semaine en un seul épisode, pour ceux qui n’ont pas eu le temps de suivre : les sujets qui ont compté, comment ils ont évolué, ce qu’il faut surveiller. Chaque dimanche, à écouter le lundi. L’hebdo du Podcast iA de Hugo LaHutte, avec iAstro. Audio en français, réalisé avec des voix de synthèse.</description>
+    <language>fr-FR</language>
+    <atom:link href="https://hl-consulting.tech/assets/podcast/semaine/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Hugo LaHutte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://hl-consulting.tech/assets/podcast/semaine/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Hugo LaHutte</itunes:name>
+      <itunes:email>hugo@hl-consulting.tech</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://hl-consulting.tech/assets/podcast/semaine/cover.jpg</url>
+      <title>La Semaine iA</title>
+      <link>https://hl-consulting.tech/knowledge-hub/immersion-ia/</link>
+    </image>
+  </channel>
+</rss>
