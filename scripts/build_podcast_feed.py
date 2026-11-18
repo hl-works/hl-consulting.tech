@@ -136,12 +136,21 @@ def build(root=ROOT, archive=False, render_covers=False):
     return write_feed(root, show, episodes, FEED_URL, folder / 'feed.xml')
 
 
+def season_of(month):
+    return {12: 'hiver', 1: 'hiver', 2: 'hiver', 3: 'printemps', 4: 'printemps', 5: 'printemps',
+            6: 'ete', 7: 'ete', 8: 'ete'}.get(month, 'automne')
+
+
 def build_semaine(root=ROOT):
     """3e émission « La Semaine iA » (assets/podcast/semaine/), flux séparé."""
     folder = root / 'assets/podcast/semaine'
     show = read_json(folder / 'show.json')
     if not (folder / 'cover.jpg').is_file():
         raise ValueError('Weekly show artwork is missing')
+    # Pochette de saison (tenues de Hugo et iAstro + vue de Tokyo), demande de Hugo du 18/11/2026.
+    season = season_of(datetime.now(ZoneInfo('Europe/Paris')).month)
+    if (folder / f'cover-{season}.jpg').is_file():
+        show = dict(show, image=f'{BASE}/assets/podcast/semaine/cover-{season}.jpg')
     manifest = folder / 'episodes.json'
     episodes = read_json(manifest)['episodes'] if manifest.exists() else []
     if len({e['id'] for e in episodes}) != len(episodes):
