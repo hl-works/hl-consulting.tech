@@ -1,6 +1,17 @@
 {
   "episodes": [
     {
+      "date": "2026-11-19",
+      "full": {
+        "src": "/assets/podcast/archive/2026-11-19/full.mp3",
+        "seconds": 449,
+        "bytes": 9152241,
+        "sha256": "c60ac8c1def3f0628a3ac5cc73657302d9bc11379b8412102282d480c63d919a",
+        "image": "/assets/podcast/archive/2026-11-19/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
+      }
+    },
+    {
       "date": "2026-11-13",
       "full": {
         "src": "/assets/podcast/archive/2026-11-13/full.mp3",
