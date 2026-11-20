@@ -7,7 +7,7 @@ Location: Chennevières-sur-Marne, Île-de-France, France.
 Background: 17 years at Son-Vidéo.com (France's #1 HiFi/home cinema e-retailer) — purchasing, sales, commercial strategy, marketing/communications, partnerships; growth from €10M to €62M. Since 2024: CEO of Cobra (Oct. 2024), publisher & editorial director of Haute Fidélité (Jan. 2025, 30+ year reference magazine relaunched), founder of HL Consulting (Jul. 2024). Marketing lecturer at Creapole-ESDI. Passionate about music, cinema, and Japanese culture (Japan Expo 2004–2009).
 LinkedIn: https://www.linkedin.com/in/hugo-lahutte — X: https://x.com/hugolh_ai
 
-Document generated automatically from the site content (scripts/build_llms_full.py). Last updated: 2026-11-19
+Document generated automatically from the site content (scripts/build_llms_full.py). Last updated: 2026-11-20
 
 
 ================================================================
@@ -25,31 +25,31 @@ Selected by Hugo Lahutte ↗One Telegram subscription.Follow all three formats t
 Join on Telegram ↗01 / Daily news on Telegram
 Le Radar iA.
 All updates and sources →Models, agents, research and practical uses: six recent items, with dates and source links.
-Latest selection: 2026-11-19
-- 0119.11.2026
+Latest selection: 2026-11-20
+- 0120.11.2026
+Nouveau modèle Google Gemini 4 Neon orienté coût
+Google présente Gemini 4 Neon, un modèle pensé pour accomplir des tâches de code plus vite et à moindre coût. Google annonce environ 32 % de coût par tâche en moins que son modèle « Carbon » sur un indice d'intelligence de référence.
+Source : @openclaw · google · modeles
+- 0219.11.2026
+Anthropic entre en bourse
+Anthropic a réalisé son introduction en bourse. Dans sa déclaration, le PDG Dario Amodei met en avant la mission de l'entreprise, le potentiel de l'IA pour accélérer la recherche médicale et son engagement affiché sur la sécurité, en promettant de ne pas céder aux pressions commerciales ou politiques.
+Source : @AnthropicAI · anthropic · modeles · politique-ia
+- 0319.11.2026
+Google lance Genie 4, un modèle de monde pour développeurs
+Google met à disposition Genie 4 dans l'API Gemini et AI Studio. C'est son premier « modèle de monde » ouvert aux développeurs pour créer des environnements et expériences interactifs générés par l'IA.
+Source : @OfficialLoganK · google · modeles · produit
+- 0419.11.2026
 Gemini 4 Neon : performances comparables à Opus 5.5 pour moitié prix
 Selon des premiers tests, Gemini 4 Neon atteint un niveau proche d'Opus 5.5 d'Anthropic sur le codage pour environ la moitié du coût par tâche. Claude reste privilégié pour les problèmes les plus difficiles, mais cette concurrence tire les prix vers le bas pour les utilisateurs d'agents.
 Source : @gregisenberg · google · anthropic · modeles · automatisation
-- 0219.11.2026
+- 0519.11.2026
+Nvidia montre GR00T 2 pilotant des mains robotiques
+Jim Fan présente GR00T 2 contrôlant de vraies mains dextres de manière autonome, de bout en bout et en vitesse réelle. Une démonstration de progrès notable pour la robotique généraliste.
+Source : @DrJimFan · recherche · hardware
+- 0619.11.2026
 Perplexity lance trois nouvelles API
 Perplexity dévoile Monitor (alertes programmables sur événements), Orchestrator (routage de tâches entre modèles frontière et open-weight) et Context (transformation d'URL en contenu exploitable par les agents). L'entreprise dit avoir multiplié par 4,3 son activité API sur un an.
 Source : @AravSrinivas · produit · agents · automatisation · saas
-- 0318.11.2026
-Google lance Gemini 4 Neon
-Google introduit Gemini 4 Neon, un modèle qui vise un bon équilibre entre intelligence, vitesse et coût. Il offre une fenêtre de contexte de 1M de tokens, quatre niveaux de réflexion ajustables et de solides performances en codage multi-fichiers, désormais disponible dans l'API, AI Studio et l'app Gemini pour les abonnés Pro et Ultra.
-Source : @GoogleAI · google · modeles · produit
-- 0418.11.2026
-Anthropic fixe le prix de son IPO à 83 $ par action
-Anthropic a fixé le prix de son introduction en bourse à 83 dollars par action, avec un début des échanges prévu sur le Nasdaq. C'est une étape majeure pour l'un des principaux laboratoires d'IA.
-Source : @AnthropicAI · anthropic · politique-ia
-- 0518.11.2026
-OpenAI et AMD : les modèles accélèrent la conception de puces
-OpenAI indique que ses modèles ont identifié jusqu'à 14 % d'amélioration (PPA) sur des blocs IP de GPU AMD en moins de cinq mois, sur des designs déjà optimisés depuis des années. Les gains ont été vérifiés sur du silicium réel et appliqués à la puce d'inférence maison d'OpenAI.
-Source : @OpenAI · openai · hardware · recherche
-- 0618.11.2026
-Google ouvre Genie 4, son modèle de mondes interactifs
-Google DeepMind rend disponible Genie 4 dans Project Genie : un modèle de monde interactif avec édition en temps réel, audio natif et un agent de création conversationnel. Accessible aux abonnés Google AI Ultra éligibles.
-Source : @demishassabis · google · modeles · produit
 Follow Le Radar iA on Telegram ↗
 A selection from the daily watch. Follow the source links for context.
 02 / AI news in audio
