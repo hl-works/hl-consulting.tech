@@ -1,6 +1,26 @@
 {
-  "archived_on": "2026-11-21",
+  "archived_on": "2026-11-22",
   "episodes": [
+    {
+      "date": "2026-11-22",
+      "version": "91d46c1174b0c28a",
+      "short": {
+        "src": "/assets/podcast/archive/2026-11-22/short.mp3",
+        "seconds": 98,
+        "bytes": 2143737,
+        "sha256": "3adf5ff38bc3fffbfbcc373f23eada027f6370f95855497da915b85815e7f6a7",
+        "image": "/assets/podcast/archive/2026-11-22/short-cover-v2.jpg",
+        "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
+      },
+      "full": {
+        "src": "/assets/podcast/archive/2026-11-22/full.mp3",
+        "seconds": 466,
+        "bytes": 9501237,
+        "sha256": "f9fe157ea61957553b3ade41e0fd5797ea8e667945e479ee5ee98514645ce2ec",
+        "image": "/assets/podcast/archive/2026-11-22/full-cover-v2.jpg",
+        "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
+      }
+    },
     {
       "date": "2026-11-21",
       "version": "2026e5d6df8abcd2",
