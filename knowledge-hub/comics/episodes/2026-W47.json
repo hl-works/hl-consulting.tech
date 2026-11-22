@@ -1,0 +1,734 @@
+{
+  "id": "2026-W47",
+  "status": "approved",
+  "title": "La semaine où tout accélère",
+  "period_start": "2026-11-16",
+  "period_end": "2026-11-22",
+  "publication_date": "2026-11-22",
+  "wardrobe_month": 11,
+  "format": "webtoon",
+  "reader_variant": "story",
+  "approval": {
+    "editorial": true,
+    "art": true,
+    "publish": true,
+    "by": "Hugo",
+    "reference": "Autorisation permanente de Hugo du 17 novembre 2026 : « ça part tout seul le dimanche ». Numéro fabriqué et publié automatiquement (sélection, sources primaires vérifiées par recherche web, scénario Claude, dessins GPT Image selon la direction validée), sans relecture préalable."
+  },
+  "cast_ids": [
+    "hugo",
+    "iastro"
+  ],
+  "reader_description": "Quatre nouvelles, quatre petites aventures : un modèle pro à prix réduit, une IA rapide et pas chère, un labo qui entre en bourse, et un panier qui réunit plusieurs boutiques.",
+  "correction_note": "Numéro fabriqué automatiquement le 22/11/2026 ; sélection arrêtée à 11 h 21, heure de Paris.",
+  "downloads": {},
+  "news": [
+    {
+      "id": "gpt62",
+      "brand_id": "openai",
+      "model_label": "ChatGPT · GPT-6.2 Astra & Sol",
+      "title": "Le pro et le malin",
+      "fact": "Le 17 novembre 2026, OpenAI met en ligne GPT-6.2 Astra et GPT-6.2 Sol dans ChatGPT Work, Codex et l'API : Astra pour le travail professionnel exigeant, Sol pour l'usage courant à moindre coût, avec des garde-fous renforcés pour l'assistance cybersécurité à risque.",
+      "intro": {
+        "title": "Le pro et le malin",
+        "summary": "OpenAI sort deux modèles : Astra, le costaud pour les gros chantiers, et Sol, le plus économe pour le quotidien. Le prix d'Astra en API baisse de 20 %, mais Sol reste volontairement simple."
+      },
+      "sources": [
+        {
+          "url": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531",
+          "publisher": "OpenAI",
+          "title": "GPT-6.2 Astra and Sol are now available",
+          "published_at": "2026-11-17",
+          "consulted_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "neon",
+      "brand_id": "google",
+      "model_label": "Gemini · Gemini 4 Neon",
+      "title": "Vite, bien, et pas cher",
+      "fact": "Le 18 novembre 2026, Google déploie Gemini 4 Neon, un modèle intermédiaire de la famille Gemini 4 : fenêtre de contexte d'un million de tokens, quatre niveaux de réflexion ajustables, et un coût par tâche environ 32 % inférieur à Gemini 4 Carbon au réglage « high ». Il arrive dans l'API (AI Studio), Gemini for business, Antigravity et l'app Gemini pour les abonnés Pro et Ultra.",
+      "intro": {
+        "title": "Vite, bien, et pas cher",
+        "summary": "Google lance Gemini 4 Neon, un modèle qui vise l'équilibre entre intelligence, vitesse et coût. Il gère de très gros contextes et laisse régler la profondeur de réflexion, sans être le plus puissant de la gamme."
+      },
+      "sources": [
+        {
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "publisher": "Google",
+          "title": "Introducing Gemini 4 Neon",
+          "published_at": "2026-11-18",
+          "consulted_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "anthropic-ipo",
+      "brand_id": "anthropic",
+      "model_label": "Anthropic · Entrée en bourse (ANT)",
+      "title": "La cloche de l'atelier",
+      "fact": "Le 19 novembre 2026, Anthropic a fait ses débuts en bourse au Nasdaq sous le symbole « ANT », après avoir fixé le prix de son IPO à 83 $ par action ; l'action a ouvert à 111,50 $ lors de sa première séance. Dario et Daniela Amodei ont sonné la cloche d'ouverture.",
+      "intro": {
+        "title": "La cloche de l'atelier",
+        "summary": "Anthropic, le créateur de Claude, est entré en bourse au Nasdaq. Entrer en bourse veut dire que tout le monde peut acheter des parts de l'entreprise ; cela apporte de l'argent mais aussi de nouvelles obligations."
+      },
+      "sources": [
+        {
+          "url": "https://www.nasdaq.com/newsroom/anthropic-marks-ipo-at-nasdaq",
+          "publisher": "Nasdaq",
+          "title": "Anthropic Marks its IPO at Nasdaq",
+          "published_at": "2026-11-19",
+          "consulted_at": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "id": "universal-checkout",
+      "brand_id": "shop",
+      "model_label": "Shopify · Universal Checkout",
+      "title": "Un panier pour toutes les boutiques",
+      "fact": "Lors de son Fall '26 Edition, Shopify a lancé Universal Checkout, qui permet de regrouper dans un seul panier des produits de plusieurs marques et de payer en une fois avec Shop Pay. Chaque marchand garde sa propre commande, ses règles et sa relation client ; l'acheteur confirme toujours l'achat dans Shop Pay.",
+      "intro": {
+        "title": "Un panier pour toutes les boutiques",
+        "summary": "Shopify permet de mettre dans un seul panier des articles venant de plusieurs marques et de tout payer en une fois. Chaque boutique reste responsable de sa commande, et l'acheteur valide toujours le paiement."
+      },
+      "sources": [
+        {
+          "url": "https://www.shopify.com/news/fall-26-edition-merchant",
+          "publisher": "Shopify",
+          "title": "Exponential: Shopify's Fall '26 Edition",
+          "published_at": "2026-10-28",
+          "consulted_at": "2026-11-22"
+        }
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "title": "Le pro et le malin",
+      "image": "art/2026-W47/gpt62-v1.png",
+      "alt": "Hugo découvre deux formes recouvertes sur l'établi ; iAstro soulève un drap.",
+      "news_ids": [
+        "gpt62"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Deux nouveaux assistants d'un coup ?",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Deux modèles ensemble",
+        "text": "Le 17 novembre, OpenAI a lancé GPT-6.2 Astra et GPT-6.2 Sol en même temps, dans ChatGPT Work, Codex et l'API."
+      }
+    },
+    {
+      "title": "Le pro et le malin",
+      "image": "art/2026-W47/gpt62-v1.png",
+      "alt": "Un gros robot-outil déploie de nombreux bras précis au-dessus d'un plan ; iAstro le présente.",
+      "news_ids": [
+        "gpt62"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "Le grand, c'est pour les travaux sérieux.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Astra, le modèle pro",
+        "text": "OpenAI présente Astra pour le travail professionnel exigeant : documents, tableurs, code et recherche. C'est son modèle le plus capable."
+      }
+    },
+    {
+      "title": "Le pro et le malin",
+      "image": "art/2026-W47/gpt62-v1.png",
+      "alt": "Un petit robot rapide file sur l'établi en portant une tasse et un carnet ; Hugo sourit.",
+      "news_ids": [
+        "gpt62"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Et le petit, lui, il fonce.",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Sol, le modèle malin",
+        "text": "Sol est le modèle économe pour les tâches de tous les jours. OpenAI dit qu'il approche Astra sur un test de code à environ un cinquième du coût."
+      }
+    },
+    {
+      "title": "Le pro et le malin",
+      "image": "art/2026-W47/gpt62-v1.png",
+      "alt": "Hugo tient une étiquette avec une flèche vers le bas, content, près du gros robot.",
+      "news_ids": [
+        "gpt62"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "Et le grand coûte un peu moins qu'avant.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Un prix en baisse pour Astra",
+        "text": "OpenAI indique que le tarif API standard d'Astra est 20 % plus bas que celui de GPT-6 Astra. Sol conserve son prix précédent."
+      }
+    },
+    {
+      "title": "Le pro et le malin",
+      "image": "art/2026-W47/gpt62-v1.png",
+      "alt": "Le gros robot travaille derrière une vitre verrouillée par iAstro ; une petite lampe orange brille.",
+      "news_ids": [
+        "gpt62"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Pourquoi cette vitre verrouillée ?",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Des garde-fous renforcés",
+        "text": "À cause de capacités accrues, OpenAI lance les deux modèles avec des protections renforcées pour l'assistance de cybersécurité à plus haut risque."
+      }
+    },
+    {
+      "title": "Le pro et le malin",
+      "image": "art/2026-W47/gpt62-v1.png",
+      "alt": "Hugo donne une minuscule vis au gros robot qui déploie tous ses bras, pendant que le petit robot a déjà fini et boit un thé.",
+      "news_ids": [
+        "gpt62"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "Pour une vis, le petit suffisait.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Choisir le bon modèle",
+        "text": "Le gag rappelle un conseil réel : garder Astra pour les tâches difficiles et préférer Sol, plus économe, pour le quotidien."
+      }
+    },
+    {
+      "title": "Vite, bien, et pas cher",
+      "image": "art/2026-W47/neon-v1.png",
+      "alt": "Hugo bricole une vieille lampe qui grésille ; iAstro apporte un tube lumineux néon cyan.",
+      "news_ids": [
+        "neon"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "La vieille lampe chauffe et coûte cher.",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Un nouveau modèle milieu de gamme",
+        "text": "Le 18 novembre, Google a lancé Gemini 4 Neon, placé entre Gemini 4 Carbon et Gemini 4 Hydrogen dans sa famille."
+      }
+    },
+    {
+      "title": "Vite, bien, et pas cher",
+      "image": "art/2026-W47/neon-v1.png",
+      "alt": "iAstro tourne une molette à quatre crans sous la lampe néon ; la lumière passe de douce à intense.",
+      "news_ids": [
+        "neon"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "Quatre réglages : léger à fond.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Quatre niveaux de réflexion",
+        "text": "Neon propose quatre niveaux de réflexion ajustables, du plus rapide au plus poussé, pour équilibrer vitesse et profondeur."
+      }
+    },
+    {
+      "title": "Vite, bien, et pas cher",
+      "image": "art/2026-W47/neon-v1.png",
+      "alt": "La lampe éclaire d'un coup un mur immense de plans, tableaux et livres ; Hugo paraît tout petit.",
+      "news_ids": [
+        "neon"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Il voit tout le mur d'un coup ?",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Un très grand contexte",
+        "text": "Neon offre une fenêtre de contexte d'un million de tokens pour traiter d'un seul coup de gros projets, tableaux et documents."
+      }
+    },
+    {
+      "title": "Vite, bien, et pas cher",
+      "image": "art/2026-W47/neon-v1.png",
+      "alt": "Un petit compteur à côté de la lampe affiche une jauge basse ; Hugo soulagé tient une facture fine.",
+      "news_ids": [
+        "neon"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "Et il consomme bien moins.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Un coût réduit",
+        "text": "Google indique qu'au réglage « high », Neon coûte environ 32 % de moins par tâche que Gemini 4 Carbon."
+      }
+    },
+    {
+      "title": "Vite, bien, et pas cher",
+      "image": "art/2026-W47/neon-v1.png",
+      "alt": "La lampe néon se branche sur une tablette, un portable et un panneau de l'atelier à la fois.",
+      "news_ids": [
+        "neon"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "On peut le brancher partout ?",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Disponible à plusieurs endroits",
+        "text": "Neon se déploie dans l'API via AI Studio, dans Gemini for business, dans Antigravity et dans l'app Gemini pour les abonnés Pro et Ultra."
+      }
+    },
+    {
+      "title": "Vite, bien, et pas cher",
+      "image": "art/2026-W47/neon-v1.png",
+      "alt": "La lampe néon brille parfaitement pendant que la vieille lampe boude sous un drap dans un coin.",
+      "news_ids": [
+        "neon"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "La vieille lampe prend sa retraite.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Un milieu de gamme, pas un roi",
+        "text": "Neon vise l'équilibre entre intelligence, vitesse et coût. Il reste positionné entre deux autres modèles de la famille Gemini 4."
+      }
+    },
+    {
+      "title": "La cloche de l'atelier",
+      "image": "art/2026-W47/anthropic-ipo-v1.png",
+      "alt": "iAstro installe une grosse cloche en laiton au-dessus d'un petit comptoir ; Hugo observe.",
+      "news_ids": [
+        "anthropic-ipo"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Pourquoi cette grosse cloche ?",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Une entrée en bourse",
+        "text": "Le 19 novembre, Anthropic a fait ses débuts au Nasdaq. Dario et Daniela Amodei ont sonné la cloche d'ouverture."
+      }
+    },
+    {
+      "title": "La cloche de l'atelier",
+      "image": "art/2026-W47/anthropic-ipo-v1.png",
+      "alt": "iAstro montre une petite carte de part encadrée avec un sceau en forme de cœur cyan ; Hugo regarde.",
+      "news_ids": [
+        "anthropic-ipo"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "On vend de petites parts de l'atelier.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Vendre des parts",
+        "text": "Anthropic, créateur de Claude, est désormais cotée sous le symbole « ANT ». Le public peut acheter des actions de l'entreprise."
+      }
+    },
+    {
+      "title": "La cloche de l'atelier",
+      "image": "art/2026-W47/anthropic-ipo-v1.png",
+      "alt": "Une petite file de voisins attend au comptoir avec des pièces ; le bocal de monnaie se remplit.",
+      "news_ids": [
+        "anthropic-ipo"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Il y a beaucoup de monde !",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Une IPO très suivie",
+        "text": "L'IPO a été fixée à 83 $ par action, et l'action a ouvert à 111,50 $ lors de sa première séance au Nasdaq."
+      }
+    },
+    {
+      "title": "La cloche de l'atelier",
+      "image": "art/2026-W47/anthropic-ipo-v1.png",
+      "alt": "iAstro sonne la grosse cloche à deux mains sous une pluie de feuilles ; Hugo applaudit.",
+      "news_ids": [
+        "anthropic-ipo"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "On sonne pour l'ouverture !",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Sonner la cloche",
+        "text": "Dario Amodei, PDG, et Daniela Amodei, présidente, ont sonné la cloche d'ouverture au Nasdaq MarketSite."
+      }
+    },
+    {
+      "title": "La cloche de l'atelier",
+      "image": "art/2026-W47/anthropic-ipo-v1.png",
+      "alt": "Hugo porte une visière de comptable avec une longue liste à cocher ; des voisins attendent, curieux.",
+      "news_ids": [
+        "anthropic-ipo"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Maintenant tout le monde veut voir les comptes.",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "De nouvelles obligations",
+        "text": "Devenir une société cotée apporte des fonds mais aussi des attentes : les investisseurs suivent de près les résultats de l'entreprise."
+      }
+    },
+    {
+      "title": "La cloche de l'atelier",
+      "image": "art/2026-W47/anthropic-ipo-v1.png",
+      "alt": "Le bocal déborde de pièces mais l'atelier croule sous les papiers ; Hugo émerge d'une pile, iAstro perché dessus.",
+      "news_ids": [
+        "anthropic-ipo"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "On a l'argent. Et la paperasse.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "La contrepartie",
+        "text": "La scène exagère : l'IPO apporte beaucoup de capital, mais aussi davantage de transparence et d'obligations envers le public."
+      }
+    },
+    {
+      "title": "Un panier pour toutes les boutiques",
+      "image": "art/2026-W47/universal-checkout-v1.png",
+      "alt": "Hugo jongle avec plusieurs petits sacs séparés ; iAstro tient un seul panier vide.",
+      "news_ids": [
+        "universal-checkout"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Un sac par boutique, c'est la pagaille.",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Acheter dans plusieurs boutiques",
+        "text": "Les besoins des acheteurs dépassent souvent une seule boutique. Universal Checkout a été annoncé lors du Fall '26 Edition de Shopify."
+      }
+    },
+    {
+      "title": "Un panier pour toutes les boutiques",
+      "image": "art/2026-W47/universal-checkout-v1.png",
+      "alt": "iAstro promène le panier unique devant les échoppes ; des articles de chaque boutique sautent dedans.",
+      "news_ids": [
+        "universal-checkout"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "Un seul panier pour toutes les marques.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Un panier multi-marques",
+        "text": "Universal Checkout réunit dans un seul panier des produits de plusieurs marques, payés en une fois avec Shop Pay."
+      }
+    },
+    {
+      "title": "Un panier pour toutes les boutiques",
+      "image": "art/2026-W47/universal-checkout-v1.png",
+      "alt": "Chaque échoppe garde sa propre caisse et son reçu même si le panier est partagé.",
+      "news_ids": [
+        "universal-checkout"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Chaque boutique garde sa caisse ?",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.0,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Chaque marchand garde sa commande",
+        "text": "Chaque marchand garde sa propre commande, ses règles et sa relation client. Le paiement partagé respecte leurs validations."
+      }
+    },
+    {
+      "title": "Un panier pour toutes les boutiques",
+      "image": "art/2026-W47/universal-checkout-v1.png",
+      "alt": "Un panneau de paiement affiche un gros bouton de confirmation unique au-dessus du panier plein.",
+      "news_ids": [
+        "universal-checkout"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "Mais c'est toi qui valides, à la fin.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.0,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "L'acheteur confirme",
+        "text": "L'acheteur passe en caisse une seule fois avec Shop Pay et doit toujours relire et autoriser l'achat lui-même."
+      }
+    },
+    {
+      "title": "Un panier pour toutes les boutiques",
+      "image": "art/2026-W47/universal-checkout-v1.png",
+      "alt": "Hugo valide ; plusieurs petits colis de boutiques différentes s'alignent à la porte.",
+      "news_ids": [
+        "universal-checkout"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Hugo",
+          "text": "Un paiement, plusieurs colis.",
+          "side": "left"
+        }
+      ],
+      "crop": {
+        "x": 0.3333333333333333,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Un paiement, des commandes séparées",
+        "text": "Un seul passage en caisse, mais chaque marchand reste le vendeur officiel avec sa propre livraison et ses retours."
+      }
+    },
+    {
+      "title": "Un panier pour toutes les boutiques",
+      "image": "art/2026-W47/universal-checkout-v1.png",
+      "alt": "iAstro a glissé en douce son propre colis — une fusée en kit — dans le panier partagé ; Hugo lève un sourcil.",
+      "news_ids": [
+        "universal-checkout"
+      ],
+      "dialogue": [
+        {
+          "speaker": "Iastro",
+          "text": "J'ai profité du même panier.",
+          "side": "right"
+        }
+      ],
+      "crop": {
+        "x": 0.6666666666666666,
+        "y": 0.5,
+        "w": 0.3333333333333333,
+        "h": 0.5
+      },
+      "layout": "standard",
+      "explanation": {
+        "title": "Pratique, mais à surveiller",
+        "text": "Le gag rappelle qu'un panier commun facilite l'achat chez plusieurs marques : raison de plus pour bien relire avant de confirmer."
+      }
+    }
+  ],
+  "cover": "art/2026-W47/cover-v1.png"
+}
