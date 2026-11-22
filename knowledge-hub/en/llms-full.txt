@@ -361,9 +361,9 @@ Announcements, context and what they change.
 6:09 · FR
 03 / The Sunday comic
 iAstroSunday.
-Hugo × iAstro · 12–18 octobre 2026AI news comes to life in the workshop. One story at a time, with illustrations, explanations and sources.
+Hugo × iAstro · 16–22 novembre 2026AI news comes to life in the workshop. One story at a time, with illustrations, explanations and sources.
 Read the latest issue →Weekly · in French · 4 stories · mobile reading
-All issues and archives →Plus d’autonomie, toujours un cadreBehind the scenes
+All issues and archives →La semaine où tout accélèreBehind the scenes
 How this AI watch works
 A selection of AI news by Hugo Lahutte, built with Claude, ChatGPT and their tools. The goal: understand announcements, keep their context and return to the sources.
 What topics does it cover?Models, assistants, agents, research, creative tools and the practical uses of AI. Le Radar iA gives you the written update; Le Flash and Le Débrief cover the audio; iAstro Sunday tells the week through comics.
