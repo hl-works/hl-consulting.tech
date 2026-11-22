@@ -7,7 +7,7 @@ Localisation : Chennevières-sur-Marne, Île-de-France, France.
 Parcours : 17 ans chez Son-Vidéo.com (n°1 français HiFi/home-cinéma en ligne) — achats, vente, stratégie commerciale, marketing/communication, partenariats ; croissance de 10 à 62 M€. Depuis 2024 : DG de Cobra (oct. 2024), éditeur & directeur de publication de Haute Fidélité (janv. 2025, magazine de référence 30+ ans relancé), fondateur de HL Consulting (juil. 2024). Enseignant marketing à Creapole-ESDI. Passionné de musique, cinéma et culture japonaise (Japan Expo 2004-2009).
 LinkedIn : https://www.linkedin.com/in/hugo-lahutte — X : https://x.com/hugolh_ai
 
-Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-21
+Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-22
 
 
 ================================================================
@@ -24,31 +24,31 @@ Une sélection de Hugo Lahutte ↗Un seul abonnement Telegram.Retrouve les trois
 S’abonner sur Telegram ↗01 / La veille quotidienne sur Telegram
 Le Radar iA.
 Toute la veille et ses sources →Modèles, agents, recherche et usages concrets : six nouvelles récentes, avec leurs dates et leurs sources.
-Dernière sélection : 2026-11-20
-- 0120.11.2026
-Google détaille sa vague de lancements : Gemini 4 Neon, Hydrogen, Carbon et plus
-Google récapitule plusieurs sorties : la famille de modèles Gemini 4 (Neon pour les tâches complexes, Hydrogen pour la rapidité, Carbon pour les projets longs), le modèle de monde interactif Genie 4, Gemini Robotics 2.5 et AlphaGenome 2 pour la recherche biomédicale. Un déploiement large couvrant code, agents et science.
-Source : @GoogleAI · google · modeles · produit · agents
-- 0220.11.2026
-Shopify : le trafic venant des IA vers ses boutiques a bondi de 2,6x
-Selon Shopify, le trafic généré par les IA vers les boutiques a progressé de 2,6x sur un an au T3, et les commandes de 3,3x. L'entreprise annonce aussi Universal Checkout, qui permet d'acheter des produits de plusieurs marques dans un seul panier.
-Source : @jessicarhertz · shopify · commerce · produit · paiement
-- 0320.11.2026
-Thinking Machines lance Inkling 2 Mini, un modèle de 26B qui tourne sur un portable
-Thinking Machines présente Inkling 2 Mini, un « looped transformer » de seulement 26 milliards de paramètres capable de tourner sur un ordinateur portable tout en restant exploitable pour des tâches agentiques. Le principe du bouclage permet au modèle de « réfléchir » davantage en produisant moins de texte.
-Source : @thinkymachines · modeles · recherche · agents
-- 0420.11.2026
-Nouveau modèle Google Gemini 4 Neon orienté coût
-Google présente Gemini 4 Neon, un modèle pensé pour accomplir des tâches de code plus vite et à moindre coût. Google annonce environ 32 % de coût par tâche en moins que son modèle « Carbon » sur un indice d'intelligence de référence.
-Source : @openclaw · google · modeles
-- 0520.11.2026
-Perplexity Computer s'intègre aux navigateurs Chromium
-Perplexity permet désormais de déléguer des tâches à son agent « Computer » directement dans les navigateurs Chromium via une extension. L'agent peut travailler à travers les onglets et outils de l'utilisateur à partir d'un panneau latéral.
-Source : @perplexity_ai · produit · agents · automatisation
-- 0620.11.2026
-L'hypothèse de Riemann aurait été résolue avec l'aide de l'IA
-Des travaux attribués au mathématicien Alpöge suggèrent une avancée majeure sur l'hypothèse de Riemann, avec l'assistance de Claude et d'outils de preuve formelle. Le rôle respectif de l'humain et de la machine fait débat, le travail restant largement piloté par un chercheur.
-Source : @emollick · anthropic · recherche
+Dernière sélection : 2026-11-22
+- 0122.11.2026
+Tesla publie FSD V15 avec une nouvelle architecture
+Elon Musk annonce la sortie de la conduite assistée FSD version 15, basée sur une architecture entièrement repensée. Il affirme qu'elle conduit mieux qu'un humain, même si ces performances restent à confirmer indépendamment.
+Source : @elonmusk · xai · produit
+- 0221.11.2026
+Google lance Gemini 4 avec plusieurs niveaux de « réflexion »
+Google DeepMind déploie sa nouvelle génération de modèles Gemini 4 (déclinaisons Neon, Hydrogen), avec des réglages d'effort de raisonnement. Les premiers tests montrent de gros écarts de coût et de qualité entre les modes « high » et « xhigh », et plusieurs utilisateurs saluent un modèle à la fois rapide et performant.
+Source : @simonw · google · modeles · produit
+- 0321.11.2026
+ParseBench-2 : classement des modèles ouverts pour l'analyse de documents
+LlamaIndex a comparé 59 modèles, dont 20 à poids ouverts, sur des tâches d'extraction et de parsing de documents. En tête des modèles ouverts : KDL, Infinity-Parser2, LightOnOCR-3 et Chandra 2. Utile pour qui veut automatiser le traitement de factures ou de documents.
+Source : @jerryjliu0 · open-source · modeles · automatisation
+- 0421.11.2026
+Un outil pour recréer n'importe quelle publicité statique avec l'IA
+ScaleBot propose désormais de « remixer » une publicité statique performante en l'adaptant automatiquement à son propre produit et à sa marque, puis de générer des variations. Un cas d'usage concret pour les équipes marketing de PME.
+Source : @mikefutia · marketing · pub · produit · automatisation
+- 0521.11.2026
+Mustafa Suleyman plaide pour financer la « science des évaluations »
+Le patron de Microsoft AI estime que les capacités des modèles doublent tous les 3,6 mois tout en devenant plus difficiles à mesurer. Il réclame des financements massifs pour les méthodes d'évaluation, suggérant qu'elles devraient à terme être imposées par la loi.
+Source : @mustafasuleyman · politique-ia · recherche
+- 0621.11.2026
+OpenAI en tête de benchmarks d'alignement
+Greg Brockman met en avant le fait que les modèles d'OpenAI dominent certains classements de sécurité et d'alignement. Une information à relativiser, ces benchmarks variant selon les critères retenus.
+Source : @gdb · openai · recherche
 Rejoindre Le Radar iA sur Telegram ↗
 Une sélection issue de la veille quotidienne. Remonte aux sources pour approfondir.
 02 / L’actualité IA à écouter
