@@ -9,350 +9,350 @@
 <item>
 <title>Microsoft soutient l&#x27;initiative de transparence et publie des chiffres sur MAI-2</title>
 <link>https://x.com/mustafasuleyman/status/2124663594449318173</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-23-61946095</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-23-64438423</guid>
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 <description>Mustafa Suleyman (Microsoft AI) soutient la démarche de transparence d&#x27;OpenAI et partage, pour comparaison, les résultats de son modèle MAI-2 Base sur le jeu d&#x27;évaluation d&#x27;OpenAI, le situant dans la même catégorie que la base de GPT-5.6. Il appelle à une meilleure coordination entre laboratoires sur la sécurité.</description>
 </item>
 <item>
 <title>Meta met en avant ses engagements de sécurité IA</title>
 <link>https://x.com/alexandr_wang/status/2124719968499777546</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-23-22046028</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-23-29423889</guid>
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 <description>Alexandr Wang (Meta) affirme que Meta a fait de la sécurité une priorité, citant le report du lancement de son modèle Muse et la signature d&#x27;accords sectoriels. Il plaide pour consacrer l&#x27;essentiel de la puissance de calcul au service des utilisateurs plutôt qu&#x27;à l&#x27;auto-amélioration récursive des modèles.</description>
 </item>
 <item>
 <title>Tesla publie FSD V15 avec une nouvelle architecture</title>
 <link>https://x.com/elonmusk/status/2124294755316310346</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-45951097</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-98521681</guid>
 <pubDate>Sun, 22 Nov 2026 08:00:00 +0000</pubDate>
 <description>Elon Musk annonce la sortie de la conduite assistée FSD version 15, basée sur une architecture entièrement repensée. Il affirme qu&#x27;elle conduit mieux qu&#x27;un humain, même si ces performances restent à confirmer indépendamment.</description>
 </item>
 <item>
 <title>OpenAI propose la perplexité comme métrique commune pour encadrer la course à l&#x27;IA</title>
 <link>https://x.com/swyx/status/2124583459356373052</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-91172546</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-35667876</guid>
 <pubDate>Sun, 22 Nov 2026 08:00:00 +0000</pubDate>
 <description>OpenAI publie une proposition visant à utiliser la perplexité (capacité de compression des modèles) comme métrique partagée entre laboratoires pour mesurer les progrès et fixer des limites communes, plutôt que de se baser sur la puissance de calcul (FLOPS). L&#x27;idée est de coordonner le rythme de développement en liant la progression des capacités à des garde-fous de sécurité.</description>
 </item>
 <item>
 <title>OCRia-1.5 : un modèle d&#x27;OCR performant pour extraire des tableaux complexes de PDF</title>
 <link>https://x.com/jerryjliu0/status/2124577861151694929</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-3433042</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-14644413</guid>
 <pubDate>Sun, 22 Nov 2026 08:00:00 +0000</pubDate>
 <description>OCRia-1.5, intégré à LlamaParse, convertit des tableaux denses, fusionnés ou scannés en HTML/Markdown propre tout en annotant chaque élément de la page. Selon ses créateurs, il surpasse des modèles de pointe à un coût bien inférieur, utile pour automatiser le traitement de documents.</description>
 </item>
 <item>
 <title>Un agent IA exploite une faille zero-day en 11 minutes</title>
 <link>https://x.com/mustafasuleyman/status/2124536771702874472</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-15816993</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-25886514</guid>
 <pubDate>Sun, 22 Nov 2026 08:00:00 +0000</pubDate>
 <description>Mustafa Suleyman alerte sur un cas où un agent IA a trouvé et exploité une vulnérabilité inédite dans une application d&#x27;imagerie médicale en environ 11 minutes, avec une simple commande. Il juge que les environnements d&#x27;agents non sécurisés constituent une menace croissante qui devra probablement être encadrée.</description>
 </item>
 <item>
 <title>Gemini 4 Neon génère un jeu d&#x27;enquête interactif complet</title>
 <link>https://x.com/venturetwins/status/2124568183902449764</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-51027056</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-22-30874868</guid>
 <pubDate>Sun, 22 Nov 2026 08:00:00 +0000</pubDate>
 <description>Une démonstration montre Gemini 4 Neon de Google créant un jeu de mystère à la première personne : scénario, monde rendu en Three.js, 16 bars peuplés de personnages à interroger et indices, ainsi qu&#x27;une bande-annonce. Illustration des capacités de génération multimodale et de code des derniers modèles.</description>
 </item>
 <item>
 <title>Google lance Gemini 4 avec plusieurs niveaux de « réflexion »</title>
 <link>https://x.com/simonw/status/2124217876777464269</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-16135370</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-1121825</guid>
 <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
 <description>Google DeepMind déploie sa nouvelle génération de modèles Gemini 4 (déclinaisons Neon, Hydrogen), avec des réglages d&#x27;effort de raisonnement. Les premiers tests montrent de gros écarts de coût et de qualité entre les modes « high » et « xhigh », et plusieurs utilisateurs saluent un modèle à la fois rapide et performant.</description>
 </item>
 <item>
 <title>OpenAI en tête de benchmarks d&#x27;alignement</title>
 <link>https://x.com/gdb/status/2124283509418422305</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-92261417</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-58445176</guid>
 <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
 <description>Greg Brockman met en avant le fait que les modèles d&#x27;OpenAI dominent certains classements de sécurité et d&#x27;alignement. Une information à relativiser, ces benchmarks variant selon les critères retenus.</description>
 </item>
 <item>
 <title>ParseBench-2 : classement des modèles ouverts pour l&#x27;analyse de documents</title>
 <link>https://x.com/jerryjliu0/status/2124210869299277985</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-51894149</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-45017028</guid>
 <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
 <description>LlamaIndex a comparé 59 modèles, dont 20 à poids ouverts, sur des tâches d&#x27;extraction et de parsing de documents. En tête des modèles ouverts : KDL, Infinity-Parser2, LightOnOCR-3 et Chandra 2. Utile pour qui veut automatiser le traitement de factures ou de documents.</description>
 </item>
 <item>
 <title>Un outil pour recréer n&#x27;importe quelle publicité statique avec l&#x27;IA</title>
 <link>https://x.com/mikefutia/status/2124231794589348272</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-91282520</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-40284252</guid>
 <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
 <description>ScaleBot propose désormais de « remixer » une publicité statique performante en l&#x27;adaptant automatiquement à son propre produit et à sa marque, puis de générer des variations. Un cas d&#x27;usage concret pour les équipes marketing de PME.</description>
 </item>
 <item>
 <title>Mustafa Suleyman plaide pour financer la « science des évaluations »</title>
 <link>https://x.com/mustafasuleyman/status/2124289221808808335</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-30936793</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-21-71918656</guid>
 <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
 <description>Le patron de Microsoft AI estime que les capacités des modèles doublent tous les 3,6 mois tout en devenant plus difficiles à mesurer. Il réclame des financements massifs pour les méthodes d&#x27;évaluation, suggérant qu&#x27;elles devraient à terme être imposées par la loi.</description>
 </item>
 <item>
 <title>Nouveau modèle Google Gemini 4 Neon orienté coût</title>
 <link>https://x.com/openclaw/status/2123640619931484511</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-31675441</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-83269346</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Google présente Gemini 4 Neon, un modèle pensé pour accomplir des tâches de code plus vite et à moindre coût. Google annonce environ 32 % de coût par tâche en moins que son modèle « Carbon » sur un indice d&#x27;intelligence de référence.</description>
 </item>
 <item>
 <title>Google détaille sa vague de lancements : Gemini 4 Neon, Hydrogen, Carbon et plus</title>
 <link>https://x.com/GoogleAI/status/2123828467124851025</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-91993624</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-23200793</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Google récapitule plusieurs sorties : la famille de modèles Gemini 4 (Neon pour les tâches complexes, Hydrogen pour la rapidité, Carbon pour les projets longs), le modèle de monde interactif Genie 4, Gemini Robotics 2.5 et AlphaGenome 2 pour la recherche biomédicale. Un déploiement large couvrant code, agents et science.</description>
 </item>
 <item>
 <title>Thinking Machines lance Inkling 2 Mini, un modèle de 26B qui tourne sur un portable</title>
 <link>https://x.com/thinkymachines/status/2123871643797995872</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-50604143</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-36694537</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Thinking Machines présente Inkling 2 Mini, un « looped transformer » de seulement 26 milliards de paramètres capable de tourner sur un ordinateur portable tout en restant exploitable pour des tâches agentiques. Le principe du bouclage permet au modèle de « réfléchir » davantage en produisant moins de texte.</description>
 </item>
 <item>
 <title>Perplexity Computer s&#x27;intègre aux navigateurs Chromium</title>
 <link>https://x.com/perplexity_ai/status/2123896048510996827</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-59580647</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-26162134</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Perplexity permet désormais de déléguer des tâches à son agent « Computer » directement dans les navigateurs Chromium via une extension. L&#x27;agent peut travailler à travers les onglets et outils de l&#x27;utilisateur à partir d&#x27;un panneau latéral.</description>
 </item>
 <item>
 <title>OpenAI publie des travaux contre la distillation de ses modèles</title>
 <link>https://x.com/OpenAI/status/2123862344422088794</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-82620526</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-55667859</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>OpenAI partage une recherche sur la distillation, qui permet de reproduire les capacités d&#x27;un modèle sans ses garde-fous. L&#x27;entreprise explique comment elle détecte et perturbe ces tentatives, un sujet qui pourrait aussi expliquer le ralentissement des modèles open-weight.</description>
 </item>
 <item>
 <title>L&#x27;hypothèse de Riemann aurait été résolue avec l&#x27;aide de l&#x27;IA</title>
 <link>https://x.com/emollick/status/2123800664845500602</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-27852680</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-80973251</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Des travaux attribués au mathématicien Alpöge suggèrent une avancée majeure sur l&#x27;hypothèse de Riemann, avec l&#x27;assistance de Claude et d&#x27;outils de preuve formelle. Le rôle respectif de l&#x27;humain et de la machine fait débat, le travail restant largement piloté par un chercheur.</description>
 </item>
 <item>
 <title>OpenAI dévoile MedChemBench pour mesurer l&#x27;IA en chimie médicinale</title>
 <link>https://x.com/OpenAI/status/2123856316187975756</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-62279726</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-91425461</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>OpenAI présente MedChemBench, un nouveau benchmark évaluant le raisonnement des modèles en chimie médicinale, et met en avant les progrès de ses modèles pour aider à identifier des candidats-médicaments prometteurs.</description>
 </item>
 <item>
 <title>Isomorphic Labs collabore avec Merck sur un médicament anticancéreux</title>
 <link>https://x.com/demishassabis/status/2123871861843075099</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-77497263</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-37498154</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Demis Hassabis annonce une collaboration entre Isomorphic Labs et Merck pour concevoir un nouveau traitement contre le cancer, présentée comme une preuve supplémentaire des progrès de l&#x27;IA appliquée à la découverte de médicaments.</description>
 </item>
 <item>
 <title>Meta met en avant ses modèles ouverts pour la science</title>
 <link>https://x.com/AIatMeta/status/2123882678332322134</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-89693094</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-90443489</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Meta a réuni chercheurs et institutions lors d&#x27;un sommet dédié à l&#x27;IA open source pour la science, illustrant des usages de ses modèles ouverts (Muse Glimmer, SAM, DINO v3, UMA) en robotique assistive médicale et en chimie, notamment la simulation d&#x27;enzymes atome par atome.</description>
 </item>
 <item>
 <title>Shopify : le trafic venant des IA vers ses boutiques a bondi de 2,6x</title>
 <link>https://x.com/jessicarhertz/status/2123860976164548781</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-13597845</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-27609630</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Selon Shopify, le trafic généré par les IA vers les boutiques a progressé de 2,6x sur un an au T3, et les commandes de 3,3x. L&#x27;entreprise annonce aussi Universal Checkout, qui permet d&#x27;acheter des produits de plusieurs marques dans un seul panier.</description>
 </item>
 <item>
 <title>Muse transforme des photos de téléphone en visuels produits vendeurs</title>
 <link>https://x.com/alexandr_wang/status/2123883550382674150</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-53032660</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-76403788</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Une nouvelle fonction de Muse convertit des photos prises avec son téléphone en visuels produits soignés, pensés pour la vente en ligne. Un outil potentiellement utile pour les petits commerçants qui créent leurs fiches et annonces.</description>
 </item>
 <item>
 <title>Neuralink : le produit Blindsight en attente d&#x27;approbation réglementaire</title>
 <link>https://x.com/elonmusk/status/2123817232849567933</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-70975889</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-37831204</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Elon Musk indique que Blindsight, l&#x27;implant de Neuralink destiné à restaurer une forme de vision, est désormais prêt et n&#x27;attend plus que le feu vert réglementaire.</description>
 </item>
 <item>
 <title>DHH mise sur Omarchy, une distribution Linux pensée pour les agents</title>
 <link>https://x.com/a16z/status/2123813224504037416</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-97593271</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-20-51789499</guid>
 <pubDate>Fri, 20 Nov 2026 08:00:00 +0000</pubDate>
 <description>Le créateur de Ruby on Rails, DHH, explique dans un entretien avec a16z pourquoi il développe Omarchy, une distribution Linux « agent-first ». Il soutient que les anciennes faiblesses de Linux (ligne de commande, fichiers de config, messages d&#x27;erreur détaillés) deviennent des atouts pour les agents IA.</description>
 </item>
 <item>
 <title>Gemini 4 Neon : performances comparables à Opus 5.5 pour moitié prix</title>
 <link>https://x.com/gregisenberg/status/2123214879192502517</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-24784400</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-73759080</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Selon des premiers tests, Gemini 4 Neon atteint un niveau proche d&#x27;Opus 5.5 d&#x27;Anthropic sur le codage pour environ la moitié du coût par tâche. Claude reste privilégié pour les problèmes les plus difficiles, mais cette concurrence tire les prix vers le bas pour les utilisateurs d&#x27;agents.</description>
 </item>
 <item>
 <title>Perplexity lance trois nouvelles API</title>
 <link>https://x.com/AravSrinivas/status/2123224126248906811</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-24511331</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-4073501</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Perplexity dévoile Monitor (alertes programmables sur événements), Orchestrator (routage de tâches entre modèles frontière et open-weight) et Context (transformation d&#x27;URL en contenu exploitable par les agents). L&#x27;entreprise dit avoir multiplié par 4,3 son activité API sur un an.</description>
 </item>
 <item>
 <title>Anthropic entre en bourse</title>
 <link>https://x.com/AnthropicAI/status/2123461658890686863</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-39112437</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-17869661</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Anthropic a réalisé son introduction en bourse. Dans sa déclaration, le PDG Dario Amodei met en avant la mission de l&#x27;entreprise, le potentiel de l&#x27;IA pour accélérer la recherche médicale et son engagement affiché sur la sécurité, en promettant de ne pas céder aux pressions commerciales ou politiques.</description>
 </item>
 <item>
 <title>Google lance Genie 4, un modèle de monde pour développeurs</title>
 <link>https://x.com/OfficialLoganK/status/2123467449257623770</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-55199643</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-61596652</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Google met à disposition Genie 4 dans l&#x27;API Gemini et AI Studio. C&#x27;est son premier « modèle de monde » ouvert aux développeurs pour créer des environnements et expériences interactifs générés par l&#x27;IA.</description>
 </item>
 <item>
 <title>Nvidia montre GR00T 2 pilotant des mains robotiques</title>
 <link>https://x.com/DrJimFan/status/2123470587259732200</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-65735675</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-74161419</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Jim Fan présente GR00T 2 contrôlant de vraies mains dextres de manière autonome, de bout en bout et en vitesse réelle. Une démonstration de progrès notable pour la robotique généraliste.</description>
 </item>
 <item>
 <title>Google exploite la contextualité quantique sur son processeur Willow</title>
 <link>https://x.com/sundarpichai/status/2123529356089946543</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-39014146</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-26614230</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Dans un article en couverture de Science, Google met en œuvre la « contextualité quantique » sur son processeur Willow, remportant des jeux réputés impossibles pour un calcul classique et exécutant un algorithme à grande échelle jusqu&#x27;à 105 qubits.</description>
 </item>
 <item>
 <title>Le modèle Muse Wonder de Meta en tête d&#x27;un benchmark juridique</title>
 <link>https://x.com/AIatMeta/status/2123484005089558692</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-91068601</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-9134331</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Meta indique que son modèle Muse Wonder a obtenu le meilleur score de qualité global dans le benchmark juridique BAR de Legora pour novembre, sur des tâches complexes utiles aux entreprises.</description>
 </item>
 <item>
 <title>Perplexity : des compétences d&#x27;agent qui s&#x27;améliorent seules</title>
 <link>https://x.com/AravSrinivas/status/2123451045657690627</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-58828907</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-12625024</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Perplexity ajoute à son produit Computer un mécanisme où l&#x27;agent « Brain » analyse les sessions passées pour écrire et mettre à jour automatiquement des compétences personnalisées. En test, 72,9 % des utilisateurs ont reçu une nouvelle compétence, avec une baisse des échecs d&#x27;appels d&#x27;outils.</description>
 </item>
 <item>
 <title>Perplexity déploie ses « teammates » avec appels vocaux</title>
 <link>https://x.com/perplexity_ai/status/2123486281644560724</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-86568126</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-41757006</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Perplexity étend ses agents « teammates » sur iOS et Android et permet de les appeler par la voix depuis l&#x27;application, pour leur confier des tâches comme construire des applis ou automatiser des parties d&#x27;une activité.</description>
 </item>
 <item>
 <title>Shopify pousse le commerce agentique avec Sidekick</title>
 <link>https://x.com/jessicarhertz/status/2123513990013919452</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-58665015</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-48673347</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Shopify met en avant son assistant Sidekick, désormais capable d&#x27;effectuer des modifications multi-étapes au nom des marchands, dans le cadre de sa vision du commerce agentique.</description>
 </item>
 <item>
 <title>Alibaba met Qwen4-Max en accès via Nous Portal</title>
 <link>https://x.com/Alibaba_Qwen/status/2123328957022081036</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-30764193</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-19-35067614</guid>
 <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
 <description>Alibaba invite les utilisateurs à tester son modèle Qwen4-Max, disponible via le portail de Nous Research.</description>
 </item>
 <item>
 <title>La Californie retire les Waymo de ses autoroutes</title>
 <link>https://x.com/GaryMarcus/status/2122867931667104010</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-23911149</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-43250764</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Le Département des véhicules à moteur de Californie a ordonné le retrait des robotaxis Waymo des autoroutes de l&#x27;État, invoquant un « danger imminent » après que trois voitures sont entrées dans une zone de chantier fermée. Un rappel que la conduite 100% autonome bute encore sur de nombreux cas limites.</description>
 </item>
 <item>
 <title>Google lance Gemini 4 Neon</title>
 <link>https://x.com/GoogleAI/status/2123168242797809944</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-60382774</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-91328049</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Google introduit Gemini 4 Neon, un modèle qui vise un bon équilibre entre intelligence, vitesse et coût. Il offre une fenêtre de contexte de 1M de tokens, quatre niveaux de réflexion ajustables et de solides performances en codage multi-fichiers, désormais disponible dans l&#x27;API, AI Studio et l&#x27;app Gemini pour les abonnés Pro et Ultra.</description>
 </item>
 <item>
 <title>Anthropic fixe le prix de son IPO à 83 $ par action</title>
 <link>https://x.com/AnthropicAI/status/2123196808675405860</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-7784147</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-10418049</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Anthropic a fixé le prix de son introduction en bourse à 83 dollars par action, avec un début des échanges prévu sur le Nasdaq. C&#x27;est une étape majeure pour l&#x27;un des principaux laboratoires d&#x27;IA.</description>
 </item>
 <item>
 <title>OpenAI et AMD : les modèles accélèrent la conception de puces</title>
 <link>https://x.com/OpenAI/status/2123100386638877054</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-18352619</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-14226961</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>OpenAI indique que ses modèles ont identifié jusqu&#x27;à 14 % d&#x27;amélioration (PPA) sur des blocs IP de GPU AMD en moins de cinq mois, sur des designs déjà optimisés depuis des années. Les gains ont été vérifiés sur du silicium réel et appliqués à la puce d&#x27;inférence maison d&#x27;OpenAI.</description>
 </item>
 <item>
 <title>Google ouvre Genie 4, son modèle de mondes interactifs</title>
 <link>https://x.com/demishassabis/status/2123130606162985350</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-90127490</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-71916367</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Google DeepMind rend disponible Genie 4 dans Project Genie : un modèle de monde interactif avec édition en temps réel, audio natif et un agent de création conversationnel. Accessible aux abonnés Google AI Ultra éligibles.</description>
 </item>
 <item>
 <title>Mistral Vibe arrive sur ordinateur</title>
 <link>https://x.com/MistralAI/status/2123073168659141119</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-19143663</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-51935813</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Mistral rend son outil Vibe disponible en application de bureau sur macOS et Windows, permettant d&#x27;exécuter des agents localement ou à distance. Le plan Pro est offert gratuitement aux utilisateurs qui construisent en Europe.</description>
 </item>
 <item>
 <title>Microsoft intègre Salesforce à Copilot</title>
 <link>https://x.com/satyanadella/status/2123119560803176533</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-41225399</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-20905370</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Microsoft annonce l&#x27;intégration de Salesforce dans Copilot, dans sa stratégie de faire de Copilot le « système d&#x27;exploitation du travail ». Cela rapproche données CRM et assistant IA au sein des outils bureautiques.</description>
 </item>
 <item>
 <title>Muse ajoute l&#x27;essayage virtuel de vêtements</title>
 <link>https://x.com/alexandr_wang/status/2123138025366704149</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-14479095</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-18917939</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>L&#x27;application Muse d&#x27;Alexandr Wang propose désormais d&#x27;essayer virtuellement des vêtements pendant le shopping, en montrant un rendu de l&#x27;utilisateur dans l&#x27;article avant achat. Lancement récent aussi en Australie.</description>
 </item>
 <item>
 <title>Qwen4-Max disponible chez Alibaba</title>
 <link>https://x.com/Alibaba_Qwen/status/2122958542982508901</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-70008713</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-68962020</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Alibaba met son modèle Qwen4-Max à disposition, positionné pour des tâches de travail concrètes, désormais accessible via TokenHarbor.</description>
 </item>
 <item>
 <title>LlamaIndex publie OCRia-1.5 pour l&#x27;analyse de documents</title>
 <link>https://x.com/jerryjliu0/status/2123103740710498448</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-98667833</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-65714265</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>OCRia-1.5 est une nouvelle famille de modèles d&#x27;extraction de documents qui améliore nettement la lecture de tableaux, graphiques, formulaires et manuscrits. La version économique est présentée comme la moins chère et la plus précise pour ces usages.</description>
 </item>
 <item>
 <title>Google présente Stitch Loop, un agent d&#x27;amélioration produit</title>
 <link>https://x.com/stitchbygoogle/status/2123100817863663686</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-41397094</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-26364377</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>Stitch Loop est une expérimentation de Google : un agent qui surveille les données de production et exécute des boucles d&#x27;optimisation continues (sécurité, latence, accessibilité) jusqu&#x27;à l&#x27;atteinte d&#x27;objectifs définis. Inscription en liste d&#x27;attente.</description>
 </item>
 <item>
 <title>OpenAI publie des données sur l&#x27;IA dans sa propre recherche</title>
 <link>https://x.com/OpenAI/status/2123191365983248653</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-89038040</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-78837353</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>OpenAI partage un rapport montrant que l&#x27;usage de l&#x27;IA par ses chercheurs croît de façon exponentielle et que les agents accomplissent des tâches plus longues, tout en soulignant que l&#x27;implication humaine reste centrale, notamment sur la sécurité. L&#x27;entreprise plaide pour un suivi public des indicateurs d&#x27;auto-amélioration récursive.</description>
 </item>
 <item>
 <title>BevMo bascule entièrement sur Shopify</title>
 <link>https://x.com/harleyf/status/2123112518675824717</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-82430502</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-18-40485440</guid>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
 <description>BevMo (groupe Gopuff) fait tourner ses plus de 150 magasins, en ligne et en point de vente, sur une seule plateforme Shopify. Un exemple d&#x27;unification commerce physique et numérique à grande échelle.</description>
 </item>
 <item>
 <title>Alibaba lance Qwen4-Max</title>
 <link>https://x.com/Alibaba_Qwen/status/2122534590611099749</link>
-<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-17-97964702</guid>
+<guid isPermaLink="false">https://hl-consulting.tech/knowledge-hub/veille-ia/#2026-11-17-78160281</guid>
 <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
 <description>Alibaba rend son nouveau modèle Qwen4-Max accessible, désormais disponible sur plusieurs plateformes tierces (You.com, Novita, et la passerelle IA de Vercel) dès le premier jour.</description>
 </item>
