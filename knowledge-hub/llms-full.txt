@@ -7,7 +7,7 @@ Localisation : Chennevières-sur-Marne, Île-de-France, France.
 Parcours : 17 ans chez Son-Vidéo.com (n°1 français HiFi/home-cinéma en ligne) — achats, vente, stratégie commerciale, marketing/communication, partenariats ; croissance de 10 à 62 M€. Depuis 2024 : DG de Cobra (oct. 2024), éditeur & directeur de publication de Haute Fidélité (janv. 2025, magazine de référence 30+ ans relancé), fondateur de HL Consulting (juil. 2024). Enseignant marketing à Creapole-ESDI. Passionné de musique, cinéma et culture japonaise (Japan Expo 2004-2009).
 LinkedIn : https://www.linkedin.com/in/hugo-lahutte — X : https://x.com/hugolh_ai
 
-Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-24
+Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-25
 
 
 ================================================================
@@ -24,31 +24,31 @@ Une sélection de Hugo Lahutte ↗Un seul abonnement Telegram.Retrouve les trois
 S’abonner sur Telegram ↗01 / La veille quotidienne sur Telegram
 Le Radar iA.
 Toute la veille et ses sources →Modèles, agents, recherche et usages concrets : six nouvelles récentes, avec leurs dates et leurs sources.
-Dernière sélection : 2026-11-24
-- 0124.11.2026
+Dernière sélection : 2026-11-25
+- 0125.11.2026
+ChatGPT Ads : ouverture aux petites marques
+OpenAI met en avant son format publicitaire ChatGPT Ads comme un moyen pour des marques plus modestes de se faire une place face aux gros annonceurs. Un sujet à suivre pour les commerçants et PME qui cherchent de nouveaux canaux d'acquisition.
+Source : @gdb · openai · produit · pub · marketing
+- 0225.11.2026
+Grok Bot recherche les bons plans Black Friday
+xAI présente une fonction de son Grok Bot capable de dénicher les meilleures offres du Black Friday et d'en vérifier l'authenticité. Un usage concret orienté achat et comparaison de prix.
+Source : @elonmusk · xai · agents · produit · vente
+- 0325.11.2026
+Thinking Machines : un petit modèle de prévision économique
+Avec l'outil Tinker, Mantic AI a affiné le modèle Inkling 2 Small via apprentissage par renforcement pour l'usage d'outils agentiques. Le résultat atteint une précision comparable aux grands modèles de pointe pour la prévision, à seulement 7 % du coût.
+Source : @thinkymachines · modeles · recherche · agents
+- 0425.11.2026
+Un nouveau résultat sur la multiplication de matrices
+Un résultat mathématique fixe l'exposant de la multiplication de matrices à exactement 9/4, une avancée théorique saluée comme inattendue. L'impact reste surtout académique mais touche aux limites fondamentales du calcul.
+Source : @gdb · recherche
+- 0524.11.2026
 Gemini 4 Neon déployé dans Google Workspace
 Google généralise son modèle Gemini 4 Neon aux clients Workspace via l'application Gemini. Plusieurs retours d'utilisateurs évoquent de forts gains de qualité, notamment sur la recherche et les tâches agentiques.
 Source : @OfficialLoganK · google · modeles · produit
-- 0224.11.2026
-Anthropic : la valeur de l'IA vient surtout du changement organisationnel
-Un nouveau papier d'Anthropic avance deux points : l'essentiel de la valeur de l'IA provient de la transformation de l'organisation, et il existe une large résistance des salariés à l'adoption. Partager les gains et élargir les rôles pourrait aider.
-Source : @emollick · anthropic · recherche
-- 0324.11.2026
-Sortie du modèle GLM-5.4
-Le modèle GLM-5.4 est disponible. Des tests comparatifs informels montrent un changement de style marqué par rapport aux versions précédentes de la famille GLM.
-Source : @simonw · modeles · open-source
-- 0424.11.2026
-OpenAI met en avant les progrès de GPT-6.2 Astra en robotique
-Greg Brockman présente GPT-6.2 Astra comme une avancée notable pour le contrôle robotique et la compréhension du monde en 3D, dans un contexte où plusieurs acteurs annoncent des progrès en robotique.
-Source : @gdb · openai · modeles · recherche
-- 0523.11.2026
-Walmart embrasse le commerce agentique, les données Stripe confirment la tendance
-Contrairement à Amazon qui bloque les agents, Walmart choisit de les accueillir pour les achats. De nouvelles données de Stripe suggèrent que le shopping piloté par des agents démarre réellement et devient récurrent.
-Source : @emollick · produit · agents · commerce · vente
-- 0623.11.2026
-Claude unifie connecteurs et compétences dans des « plugins »
-Anthropic regroupe ses connecteurs d'outils et ses skills sous un format unique de plugins, avec plus de 10 000 plugins disponibles. Accessible dès les offres Free, Pro, Max et Ultra, avec Team et Enterprise à venir.
-Source : @claudeai · anthropic · produit · agents · automatisation
+- 0624.11.2026
+Gemini 4 Neon : adoption en forte hausse chez Perplexity
+Perplexity rapporte un doublement du volume quotidien de tokens en trois jours avec le modèle Gemini 4 Neon de Google, qu'elle situe entre Opus et Fable en intelligence mais avec un meilleur style de réponse. Google confirme de son côté un record d'usage dès le premier jour sur ses API payantes.
+Source : @AravSrinivas · google · modeles · produit
 Rejoindre Le Radar iA sur Telegram ↗
 Une sélection issue de la veille quotidienne. Remonte aux sources pour approfondir.
 02 / L’actualité IA à écouter
