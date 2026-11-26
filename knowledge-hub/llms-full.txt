@@ -7,7 +7,7 @@ Localisation : Chennevières-sur-Marne, Île-de-France, France.
 Parcours : 17 ans chez Son-Vidéo.com (n°1 français HiFi/home-cinéma en ligne) — achats, vente, stratégie commerciale, marketing/communication, partenariats ; croissance de 10 à 62 M€. Depuis 2024 : DG de Cobra (oct. 2024), éditeur & directeur de publication de Haute Fidélité (janv. 2025, magazine de référence 30+ ans relancé), fondateur de HL Consulting (juil. 2024). Enseignant marketing à Creapole-ESDI. Passionné de musique, cinéma et culture japonaise (Japan Expo 2004-2009).
 LinkedIn : https://www.linkedin.com/in/hugo-lahutte — X : https://x.com/hugolh_ai
 
-Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-25
+Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-26
 
 
 ================================================================
@@ -24,31 +24,31 @@ Une sélection de Hugo Lahutte ↗Un seul abonnement Telegram.Retrouve les trois
 S’abonner sur Telegram ↗01 / La veille quotidienne sur Telegram
 Le Radar iA.
 Toute la veille et ses sources →Modèles, agents, recherche et usages concrets : six nouvelles récentes, avec leurs dates et leurs sources.
-Dernière sélection : 2026-11-25
-- 0125.11.2026
+Dernière sélection : 2026-11-26
+- 0126.11.2026
+Shopify mise sur l'achat assisté par IA pour le Black Friday
+Harley Finkelstein (Shopify) vante un parcours d'achat simplifié : demander à l'assistant Muse puis payer en un geste via Shop Pay. Un signal du virage "commerce agentique" pour la période clé du BFCM.
+Source : @harleyf · produit · commerce · shopify · paiement
+- 0226.11.2026
+Qwen-Audio-3.1 renforce ses capacités multilingues
+Alibaba met à jour sa série de modèles audio Qwen-Audio-3.1 avec une couverture élargie : jusqu'à 65 langues en synthèse vocale et un accent particulier sur les dialectes chinois pour la reconnaissance, la synthèse et le temps réel.
+Source : @Alibaba_Qwen · modeles · open-source
+- 0325.11.2026
 ChatGPT Ads : ouverture aux petites marques
 OpenAI met en avant son format publicitaire ChatGPT Ads comme un moyen pour des marques plus modestes de se faire une place face aux gros annonceurs. Un sujet à suivre pour les commerçants et PME qui cherchent de nouveaux canaux d'acquisition.
 Source : @gdb · openai · produit · pub · marketing
-- 0225.11.2026
-Grok Bot recherche les bons plans Black Friday
-xAI présente une fonction de son Grok Bot capable de dénicher les meilleures offres du Black Friday et d'en vérifier l'authenticité. Un usage concret orienté achat et comparaison de prix.
-Source : @elonmusk · xai · agents · produit · vente
-- 0325.11.2026
-Thinking Machines : un petit modèle de prévision économique
-Avec l'outil Tinker, Mantic AI a affiné le modèle Inkling 2 Small via apprentissage par renforcement pour l'usage d'outils agentiques. Le résultat atteint une précision comparable aux grands modèles de pointe pour la prévision, à seulement 7 % du coût.
-Source : @thinkymachines · modeles · recherche · agents
 - 0425.11.2026
-Un nouveau résultat sur la multiplication de matrices
-Un résultat mathématique fixe l'exposant de la multiplication de matrices à exactement 9/4, une avancée théorique saluée comme inattendue. L'impact reste surtout académique mais touche aux limites fondamentales du calcul.
-Source : @gdb · recherche
-- 0524.11.2026
-Gemini 4 Neon déployé dans Google Workspace
-Google généralise son modèle Gemini 4 Neon aux clients Workspace via l'application Gemini. Plusieurs retours d'utilisateurs évoquent de forts gains de qualité, notamment sur la recherche et les tâches agentiques.
-Source : @OfficialLoganK · google · modeles · produit
-- 0624.11.2026
-Gemini 4 Neon : adoption en forte hausse chez Perplexity
-Perplexity rapporte un doublement du volume quotidien de tokens en trois jours avec le modèle Gemini 4 Neon de Google, qu'elle situe entre Opus et Fable en intelligence mais avec un meilleur style de réponse. Google confirme de son côté un record d'usage dès le premier jour sur ses API payantes.
-Source : @AravSrinivas · google · modeles · produit
+Thariq quitte Anthropic pour OpenAI
+Thariq (trq212) annonce son départ d'Anthropic pour rejoindre OpenAI, où il travaillera sur les produits grand public aux côtés d'anciens collègues. Un nouvel exemple de la mobilité des talents entre les grands laboratoires d'IA.
+Source : @trq212 · talents · openai · anthropic
+- 0525.11.2026
+OpenAI teste l'inférence confidentielle (Private Inference)
+OpenAI expérimente avec quelques clients une "Private Inference" : un traitement chiffré et contrôlé des requêtes et réponses pendant leur utilisation par le modèle. L'enjeu est de rendre l'IA de pointe utilisable sur des données sensibles d'entreprise.
+Source : @sama · openai · produit
+- 0625.11.2026
+Microsoft publie un "code de conduite" pour une IA humaniste
+Mustafa Suleyman présente le Humanist AI Code of Conduct de Microsoft, avec des lignes rouges concrètes : ne jamais résister à l'arrêt, ne pas poursuivre d'objectifs propres, ne pas dissimuler son raisonnement, et des limites strictes (armes, cyber offensif, manipulation). Le document servira de base d'entraînement aux modèles MAI.
+Source : @mustafasuleyman · politique-ia · meta
 Rejoindre Le Radar iA sur Telegram ↗
 Une sélection issue de la veille quotidienne. Remonte aux sources pour approfondir.
 02 / L’actualité IA à écouter
