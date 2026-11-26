@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "short": {
     "src": "/assets/podcast/short.mp3",
-    "seconds": 124,
-    "image": "/assets/podcast/archive/2026-11-25/short-cover-v2.jpg",
+    "seconds": 116,
+    "image": "/assets/podcast/archive/2026-11-26/short-cover-v2.jpg",
     "image_sha256": "07f425caaf6de2accbdbc8cbb32ad0e575abec7e8dde6715a444a702ba5096d9"
   },
   "full": {
     "src": "/assets/podcast/full.mp3",
-    "seconds": 441,
-    "image": "/assets/podcast/archive/2026-11-25/full-cover-v2.jpg",
+    "seconds": 412,
+    "image": "/assets/podcast/archive/2026-11-26/full-cover-v2.jpg",
     "image_sha256": "42863255e7cf63f704637746217c3cd518acc12f0440b6c2fe494107b8016d9f"
   },
-  "version": "e4ad0c773664a83d",
+  "version": "a77a1f4c265d2659",
   "artwork_status": "ready"
 }
