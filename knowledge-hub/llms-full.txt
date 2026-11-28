@@ -7,7 +7,7 @@ Localisation : Chennevières-sur-Marne, Île-de-France, France.
 Parcours : 17 ans chez Son-Vidéo.com (n°1 français HiFi/home-cinéma en ligne) — achats, vente, stratégie commerciale, marketing/communication, partenariats ; croissance de 10 à 62 M€. Depuis 2024 : DG de Cobra (oct. 2024), éditeur & directeur de publication de Haute Fidélité (janv. 2025, magazine de référence 30+ ans relancé), fondateur de HL Consulting (juil. 2024). Enseignant marketing à Creapole-ESDI. Passionné de musique, cinéma et culture japonaise (Japan Expo 2004-2009).
 LinkedIn : https://www.linkedin.com/in/hugo-lahutte — X : https://x.com/hugolh_ai
 
-Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-27
+Document généré automatiquement depuis le contenu du site (scripts/build_llms_full.py). Dernière mise à jour : 2026-11-28
 
 
 ================================================================
@@ -24,31 +24,31 @@ Une sélection de Hugo Lahutte ↗Un seul abonnement Telegram.Retrouve les trois
 S’abonner sur Telegram ↗01 / La veille quotidienne sur Telegram
 Le Radar iA.
 Toute la veille et ses sources →Modèles, agents, recherche et usages concrets : six nouvelles récentes, avec leurs dates et leurs sources.
-Dernière sélection : 2026-11-27
-- 0127.11.2026
-Shopify relance son « globe » en direct pour le Black Friday
-Shopify rend à nouveau visible en temps réel les ventes mondiales du week-end de Black Friday/Cyber Monday via une visualisation en 3D (WebGPU). Un repère concret de l'activité e-commerce pour les marchands.
-Source : @tobi · shopify · commerce · vente
-- 0226.11.2026
-Mistral lance Large 4 avec de fortes capacités de compréhension visuelle
-Mistral présente Mistral Large 4 (surnommé « Le Chonk »), qui excelle sur les tâches d'ancrage visuel (localiser précisément un élément dans une image). L'entreprise affirme qu'il dépasse même des modèles fermés de pointe sur ce type de tâches.
-Source : @MistralAI · mistral · modeles
-- 0326.11.2026
-OCRia-nano-1 : un modèle OCR de seulement 8,1 M de paramètres
-Un modèle OCR ultra-léger capable de lire du texte scanné, des tableaux et plusieurs langues, avec des boîtes d'annotation. Présenté comme très efficace pour numériser de gros volumes de documents à moindre coût, utile pour les systèmes de recherche documentaire (RAG).
-Source : @jerryjliu0 · modeles · open-source · recherche · automatisation
-- 0426.11.2026
-Shopify mise sur l'achat assisté par IA pour le Black Friday
-Harley Finkelstein (Shopify) vante un parcours d'achat simplifié : demander à l'assistant Muse puis payer en un geste via Shop Pay. Un signal du virage "commerce agentique" pour la période clé du BFCM.
-Source : @harleyf · produit · commerce · shopify · paiement
-- 0526.11.2026
-Perplexity : forte croissance de l'adoption de « Teammates »
-Perplexity indique que l'usage de ses agents « Teammates » double tous les dix jours, parmi les abonnés du palier Max à 200 $/mois. L'idée : déléguer des rôles entiers à des agents et les orchestrer.
-Source : @AravSrinivas · produit · agents
-- 0626.11.2026
-Qwen-Audio-3.1 renforce ses capacités multilingues
-Alibaba met à jour sa série de modèles audio Qwen-Audio-3.1 avec une couverture élargie : jusqu'à 65 langues en synthèse vocale et un accent particulier sur les dialectes chinois pour la reconnaissance, la synthèse et le temps réel.
-Source : @Alibaba_Qwen · modeles · open-source
+Dernière sélection : 2026-11-28
+- 0128.11.2026
+Forte croissance des automatisations chez Perplexity
+Perplexity indique que les automatisations de ses « Teammates » pour utilisateurs externes ont été multipliées par 27 depuis leur lancement il y a trois semaines. Pendant Thanksgiving, les exécutions automatiques ont dépassé le nombre de messages humains.
+Source : @AravSrinivas · produit · agents · automatisation
+- 0227.11.2026
+Shopify bat son record de ventes du Black Friday
+Les marchands Shopify ont dépassé leur pic de l'an dernier, atteignant 6,8 millions de dollars de ventes par minute au plus fort de la journée. Un signal fort pour les petits commerçants et marques indépendantes.
+Source : @harleyf · produit · commerce · shopify · vente
+- 0327.11.2026
+Grok Bot (xAI) comparé à un « moment ChatGPT »
+L'investisseur Gavin Baker affirme que Grok Bot de xAI permet de créer en quelques secondes des agents (résumeurs de podcasts, suivis de sentiment, etc.) qui prenaient auparavant des heures avec d'autres outils. Il y voit un tournant d'usage comparable à l'arrivée de ChatGPT.
+Source : @a16z · xai · produit · agents · automatisation
+- 0427.11.2026
+Mistral : Voxtral bien classé en transcription
+Mistral annonce que cinq de ses modèles figurent dans le top 40 des classements de précision de transcription d'Artificial Analysis, couvrant notamment l'anglais, le français et le japonais via Voxtral.
+Source : @MistralAI · mistral · modeles · recherche
+- 0527.11.2026
+LlamaIndex ouvre les poids de son modèle OCR OCRia-1
+LlamaIndex a publié en open source les poids de son modèle OCR phare OCRia-1, présenté comme état de l'art sur ParseBench et capable de traiter des PDF complexes, exécutable localement sur une machine modeste comme un Mac mini.
+Source : @jerryjliu0 · open-source · modeles · produit
+- 0627.11.2026
+Google : une revitalisation des modèles frontière
+Selon swyx, Google DeepMind connaît un net regain avec de nouveaux modèles de pointe (dont « Neon »), illustrant une multiplication des laboratoires proches de la frontière. Il y voit un facteur macro clé pour l'écosystème des agents.
+Source : @swyx · google · modeles · recherche
 Rejoindre Le Radar iA sur Telegram ↗
 Une sélection issue de la veille quotidienne. Remonte aux sources pour approfondir.
 02 / L’actualité IA à écouter
